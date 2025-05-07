@@ -1,0 +1,15 @@
+# temporary files
+*~
+*.swp
+*.swo
+*.sw*
+
+# backup files
+*.bak
+
+# py venv
+.python-version
+venv/
+
+# ggshield
+.cache_ggshield
