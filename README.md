@@ -378,7 +378,7 @@ https://github.com/mg979/vim-visual-multi
 
 ![Imgur](https://i.imgur.com/u5pPY5W.gif)
 
-And much more screenshots, see: https://github.com/mg979/vim-visual-multi#tutorial
+See exercises: https://github.com/juanMarinero/vim-visual-multi-exercises.
 
 
 ## vim-signature
