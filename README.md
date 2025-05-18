@@ -1,6 +1,74 @@
 Vim has so many plugins that I forget I have them all. This markdown is to quick view what each plugin does.
 
 
+* [ALE](#ale)
+* [prettier](#prettier)
+* [coc.nvim](#cocnvim)
+* [copilot.vim](#copilotvim)
+* [codeium.vim](#codeiumvim)
+* [vim-ai](#vim-ai)
+* [cheat.sh-vim](#cheatsh-vim)
+* [Ctags: tagbar](#ctags-tagbar)
+* [Ctags: vista.vim](#ctags-vistavim)
+* [emmet-vim](#emmet-vim)
+* [jupyter-vim](#jupyter-vim)
+* [jupytext (not a vim plugin)](#jupytext-not-a-vim-plugin)
+* [jupyter_ascending](#jupyter_ascending)
+* [vim-markdown](#vim-markdown)
+* [markdown-preview](#markdown-preview)
+* [vim-terminator](#vim-terminator)
+* [codi.vim](#codivim)
+* [vim-test](#vim-test)
+* [vimspector debugger](#vimspector-debugger)
+* [Snippets](#snippets)
+  * [UltiSnips](#ultisnips)
+  * [Coc-snippets](#coc-snippets)
+* [VimTex](#vimtex)
+* [vim-latex-live-preview](#vim-latex-live-preview)
+* [bracey.vim](#braceyvim)
+* [git-signs](#git-signs)
+  * [gitsigns.nvim](#gitsignsnvim)
+  * [vim-gitgutter](#vim-gitgutter)
+* [vim-fugitive](#vim-fugitive)
+* [diffchar](#diffchar)
+* [undotree](#undotree)
+* [illuminate](#illuminate)
+* [vim-search-pulse](#vim-search-pulse)
+* [indentline](#indentline)
+* [highlightedyank](#highlightedyank)
+* [Preview colors in code](#preview-colors-in-code)
+* [vcoolor.vim](#vcoolorvim)
+* [vim-surround](#vim-surround)
+* [vim-indent-object](#vim-indent-object)
+* [vim-visual-multi](#vim-visual-multi)
+* [vim-signature](#vim-signature)
+* [vim-bookmarks](#vim-bookmarks)
+* [vim-codepainter](#vim-codepainter)
+* [vim-mark](#vim-mark)
+* [vim-simple-todo](#vim-simple-todo)
+* [NNN](#nnn)
+* [FZF](#fzf)
+  * [fzf.vim](#fzfvim)
+  * [fzf-preview.vim](#fzf-previewvim)
+
+At bottom:
+- Hard to show screenshots like NERDCommenter
+- Read somewhere else like vim-fugitive
+- Not installed plugins like 🗄️ vim-dadbod ones
+- Automatic plugin like vim-airline
+
+* [obsession-vim](#obsession-vim)
+* [vim-workspace](#vim-workspace)
+* [vim-execution](#vim-execution)
+* [NERDCommenter](#nerdcommenter)
+* [vim-repeat](#vim-repeat)
+* [vim-dadbod](#vim-dadbod)
+* [VimDevIcons](#vimdevicons)
+* [html5.vim](#html5vim)
+* [vim-json](#vim-json)
+* [vim-airline](#vim-airline)
+
+
 ## ALE
 
 https://github.com/dense-analysis/ale
@@ -457,18 +525,6 @@ https://github.com/yuki-yano/fzf-preview.vim#features
 
 ----
 ----
-
-At bottom:
-- Hard to show screenshots like NERDCommenter
-- Read somewhere else like vim-fugitive
-- Not installed plugins like 🗄️ vim-dadbod ones
-- Automatic plugin like vim-airline
-
-
-
-
-
-
 
 
 ## obsession-vim
