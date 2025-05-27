@@ -406,7 +406,10 @@ Color picker (to add RGB color)
 https://github.com/kabbamine/vcoolor.vim 
 
 In GNU/Linux it uses a simple GTK+ dialog via Zenity or Yad.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBJ_-Uxm55U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click on the image for a short screencast of the v0.1.
+
+[![Screencast of vCoolor](https://github.com/KabbAmine/vCoolor.vim/blob/master/.img/play-me.jpg)](https://www.youtube.com/watch?v=ZBJ_-Uxm55U)
 
 
 ## vim-surround
