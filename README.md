@@ -40,6 +40,7 @@ Vim has so many plugins that I forget I have them all. This markdown is to quick
 * [vcoolor.vim](#vcoolorvim)
 * [vim-surround](#vim-surround)
 * [vim-indent-object](#vim-indent-object)
+* [vim-matchup](#vim-matchup)
 * [vim-visual-multi](#vim-visual-multi)
 * [vim-signature](#vim-signature)
 * [vim-bookmarks](#vim-bookmarks)
@@ -426,9 +427,34 @@ https://github.com/tpope/vim-surround/blob/master/doc/surround.txt
 
 Selects all lines with the same or greater indent level
 
+Alike `%i` vmap of vim-matchup but for same **indent** level, **not** for matchup pairs (if-else-... or chars `(`,`{`...).
+
+Visual maps:
+- `ii`
+
 https://github.com/urxvtcd/vim-indent-object
 
 See https://asciinema.org/a/465213?autoplay=1
+
+
+## vim-matchup
+
+Extend vim's `%` key to language-specific words.
+
+Much more than vim-indent-object.
+For matchup pairs (if-else-... or chars `(`,`{`...). **Not neccesary** in same **indent** level.
+
+https://github.com/andymass/vim-matchup
+
+Normal maps:
+- `%`, `g%`,...
+- `%w` (custom)
+
+Visual maps:
+- `i%`, `a%`,...
+
+
+![Screenshot](https://raw.githubusercontent.com/wiki/andymass/vim-matchup/images/match-up-hl1.gif)
 
 
 ## vim-visual-multi
