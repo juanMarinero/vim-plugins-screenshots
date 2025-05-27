@@ -351,7 +351,9 @@ Highlight current word under the cursor
 
 https://github.com/rrethy/vim-illuminate 
 
-<video autoplay="true" muted="true" loop="false" controls="true" width="700px" src="https://github.com/user-attachments/assets/fc1487cf-aa19-4238-af23-ab1ac2f5744a" title="An example showing what ALE can do."></video>
+<!-- <video autoplay="true" muted="true" loop="false" controls="true" width="700px" src="https://github.com/user-attachments/assets/fc1487cf-aa19-4238-af23-ab1ac2f5744a" title="An example showing what ALE can do."></video> -->
+
+https://github.com/user-attachments/assets/fc1487cf-aa19-4238-af23-ab1ac2f5744a
 
 
 ## vim-search-pulse
