@@ -312,6 +312,38 @@ https://github.com/lewis6991/gitsigns.nvim
 | --- | ----------- |
 | <img src="https://raw.githubusercontent.com/lewis6991/media/main/gitsigns_actions.gif?raw=true" width="450em"/> | <img src="https://raw.githubusercontent.com/lewis6991/media/main/gitsigns_blame.gif?raw=true" width="450em"/> |
 
+Features that vim-gitgutter lacks:
+
+- To columnsign (`:Gitsigns toggle_signs`) add number-sign (`:Gitsigns toggle_numhl`)
+
+  ![image](https://user-images.githubusercontent.com/701548/118813268-f6bd7900-b87c-11eb-9761-3707b1c38d19.png)
+
+- Git delta (add img of README de gitsigns) with cmd `:Gitsigns toggle_word_diff`
+
+  ![image](https://github.com/user-attachments/assets/409a1f91-5cee-404b-8b12-66b7db3ecac7)
+
+- Hunk reset
+
+- Show blame information for the current line in popup with `:Gitsigns blame_line`.
+
+  ![image](https://github.com/user-attachments/assets/03ff7557-b538-4cd1-9478-f893bf7e616e)
+
+- Show blame information for the current line in virtual text.
+
+  ![image](https://github.com/user-attachments/assets/0c79e880-6a6d-4c3f-aa62-33f734725cfd)
+
+- Preview hunks inline with `:Gitsigns preview_hunk_inline`
+
+  ![image](https://github.com/user-attachments/assets/60acd664-f4a8-4737-ba65-969f1efa7971)
+
+- Preview hunks in popup with `:Gitsigns preview_hunk`
+
+  ![image](https://github.com/user-attachments/assets/d2a9b801-5857-4054-80a8-195d111f4e8c)
+
+- Show hunks Quickfix/Location List
+
+  ![image](https://github.com/user-attachments/assets/c17001a5-b9cf-4a00-9891-5b130c0b4745)
+
 
 ### vim-gitgutter
 
