@@ -52,6 +52,7 @@ Vim has so many plugins that I forget I have them all. This markdown is to quick
   * [fzf.vim](#fzfvim)
   * [fzf-preview.vim](#fzf-previewvim)
 * [MRU](#mru)
+* [vim-easymotion](#vim-easymotion)
 
 At bottom:
 - Hard to show screenshots like NERDCommenter
@@ -591,6 +592,19 @@ https://github.com/yegappan/mru
 
 ![issue59](https://user-images.githubusercontent.com/6072490/186197808-797b9b0d-48f3-46cc-9757-50a3d1e16d6b.png?raw=true "issue59")
 
+
+## vim-easymotion
+
+
+1. Type `<Leader><Leader>w` to trigger the word motion w
+2. When the motion is triggered the text is updated as 
+![code.tutsplus.com](https://cdn.tutsplus.com/cdn-cgi/image/width=600/net/uploads/legacy/951_vimEasyMotion/trigger.jpg?raw=true "code.tutsplus.com")
+3. E.g. press `b` to jump to the beginning of the word *function* in line 6
+
+Multi-window inc-search
+![overwin-search](https://raw.githubusercontent.com/haya14busa/i/2753bd4dd1dfdf5962dbdbffabf24244e4e14243/easymotion/overwin-motions.gif?raw=true "overwin-search")
+
+[fuzzy-search](https://github.com/easymotion/vim-easymotion#bonus-fuzzy-search-with-easymotion), etc.
 
 
 
