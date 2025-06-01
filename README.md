@@ -51,6 +51,7 @@ Vim has so many plugins that I forget I have them all. This markdown is to quick
 * [FZF](#fzf)
   * [fzf.vim](#fzfvim)
   * [fzf-preview.vim](#fzf-previewvim)
+* [MRU](#mru)
 
 At bottom:
 - Hard to show screenshots like NERDCommenter
@@ -582,6 +583,13 @@ https://github.com/yuki-yano/fzf-preview.vim#features
 ![fzf-preview](https://user-images.githubusercontent.com/5423775/88540152-6e4fbc80-d04d-11ea-8d19-314ee5e4d294.gif?raw=true "fzf-preview")
 
 
+## MRU
+
+Most-Recently Used files
+
+https://github.com/yegappan/mru
+
+![issue59](https://user-images.githubusercontent.com/6072490/186197808-797b9b0d-48f3-46cc-9757-50a3d1e16d6b.png?raw=true "issue59")
 
 
 
