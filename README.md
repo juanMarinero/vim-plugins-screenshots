@@ -64,6 +64,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [NNN](#nnn)
   * [telescope-file-browser.nvim](#telescope-file-browsernvim)
   * [NERDTree](#nerdtree)
+  * [Neo-tree.nvim](#neotreenvim)
 * [FZF](#fzf)
   * [fzf.vim](#fzfvim)
   * [fzf-preview.vim](#fzf-previewvim)
@@ -640,6 +641,12 @@ https://github.com/preservim/nerdtree
 
 ![NERDTree Screenshot](https://github.com/preservim/nerdtree/raw/master/screenshot.png)
 
+
+### Neo-tree.nvim
+
+https://github.com/nvim-neo-tree/neo-tree.nvim
+
+![Neo-tree file system sidebar](https://github.com/nvim-neo-tree/resources/blob/main/images/Neo-tree-with-right-aligned-symbols.png)
 
 
 ## FZF
