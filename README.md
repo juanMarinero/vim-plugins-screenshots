@@ -180,9 +180,38 @@ https://github.com/imbue-ai/jupyter_ascending.vim
 
 ## vim-markdown
 
-📜 add Python,... syntax highlight to markdowns, adds markdown folding,...
-
 https://github.com/preservim/vim-markdown
+
+<details>
+  <summary><code>:HeaderIncrease</code> and <code>:HeaderDecrease</code> - Click to expand</summary>
+
+  <img src="media/vim-markdown/HeaderIncrease_HeaderDecrease_normal_mode.gif" alt="HeaderIncrease_HeaderDecrease_normal_mode" width="567" height="700">
+</details>
+
+<details>
+  <summary><code>:InsertToc</code> and <code>:InsertNToc</code></summary>
+
+  <img src="media/vim-markdown/InsertToc_InsertNToc.gif" alt="InsertToc_InsertNToc" width="567" height="700">
+</details>
+
+<details>
+  <summary><code>:Toc</code></summary>
+
+  <img src="media/vim-markdown/Toc.gif" alt="Toc" width="567" height="700">
+</details>
+
+<details>
+  <summary><code>:TableFormat</code></summary>
+
+  <img src="media/vim-markdown/TableFormat.gif" alt="TableFormat" width="567" height="700">
+</details>
+
+<details>
+  <summary>Mappings <code>]]</code> and <code>]u</code>. Check Python,javascript and TeX syntax highlight in <code>```</code> blocks</summary>
+
+  ![mappings](media/vim-markdown/mappings.gif)
+</details>
+
 
 
 ## markdown-preview
