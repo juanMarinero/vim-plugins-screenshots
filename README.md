@@ -2,6 +2,13 @@
 
 Vim has so many plugins that I forget I have them all. This markdown is to quick view what each plugin does.
 
+This is not a detailed list of all Neo/Vim plugins; for that, visit
+- [vim.org](https://www.vim.org/scripts/script_search_results.php?keywords=&script_type=&order_by=downloads&direction=descending&search=search) sorted by downloads/rating
+- [vimawesome.com](https://vimawesome.com/) sorted by rating
+- [awesome-vim](https://github.com/akrawchyk/awesome-vim) grouped by section and alphabetically sorted
+- [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) for NeoVim
+- [vim-plugin-list](https://github.com/altermo/vim-plugin-list) last maintained in 2024
+
 <details>
   <summary>Index - Click to expand</summary>
 
