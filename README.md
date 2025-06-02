@@ -63,6 +63,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [File managers](#file-managers)
   * [NNN](#nnn)
   * [telescope-file-browser.nvim](#telescope-file-browsernvim)
+  * [NERDTree](#nerdtree)
 * [FZF](#fzf)
   * [fzf.vim](#fzfvim)
   * [fzf-preview.vim](#fzf-previewvim)
@@ -631,6 +632,14 @@ See [Telescope](#telescope)
 For creation, deletion, renaming, and moving of files and folders.
 
 ![Demo](https://user-images.githubusercontent.com/39233597/149016073-6fcc9383-a761-422b-be40-17d4b854cd3c.gif)
+
+
+### NERDTree
+
+https://github.com/preservim/nerdtree
+
+![NERDTree Screenshot](https://github.com/preservim/nerdtree/raw/master/screenshot.png)
+
 
 
 ## FZF
