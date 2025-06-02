@@ -91,6 +91,8 @@ At bottom:
 * [vim-json](#vim-json)
 * [vim-airline](#vim-airline)
 
+* [Bonus](#bonus)
+
 </details>
 
 ## ALE
@@ -793,6 +795,19 @@ https://github.com/vim-airline/vim-airline
 
 ![img](https://github.com/vim-airline/vim-airline/wiki/screenshots/demo.gif?raw=true)
 
+
+----
+----
+## Bonus
+
+- Neo/Vim itself can be tricky to install, check out:
+  - The [official Vim docs](https://vimdoc.sourceforge.net/) or directly [this](https://vimdoc.sourceforge.net/htmldoc/usr_90.html)
+  - The [official NeoVim docs](https://neovim.io/doc/user/intro.html#_installing-nvim)
+  - For Ubuntu users I promote myself (both Vim and NeoVim): [juanMarinero/vim-install-basic](https://github.com/juanMarinero/vim-install-basic)
+  - Neo/Vim preconfigured with [NvChad](https://nvchad.com/docs/quickstart/install), [LazyVim](https://www.lazyvim.org/), [AstroNvim](https://astronvim.com/), [SpaceVim](https://github.com/wsdjeg/SpaceVim), [The Ultimate vimrc](https://github.com/amix/vimrc), [spf13-vim](https://github.com/spf13/spf13-vim),...
+- [ALE](#ale), [coc.nvim](#cocnvim) and [vimspector-debugger](#vimspector-debugger) are essential Vim plugins.
+But not easy to configure. Take a look at [juanMarinero/vim-install-basic](https://github.com/juanMarinero/vim-install-basic), for example for [ALE](https://github.com/juanMarinero/vim-install-basic/tree/main/plugins/ale).
+- Other plugins are difficult to master. For example [vim-visual-multi](#vim-visual-multi) requires some practice. Check out [juanMarinero/vim-visual-multi-exercises](https://github.com/juanMarinero/vim-visual-multi-exercises)
 
 ----
 ----
