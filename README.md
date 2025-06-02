@@ -45,12 +45,14 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [undotree](#undotree)
 * [illuminate](#illuminate)
 * [vim-search-pulse](#vim-search-pulse)
-* [indentline](#indentline)
 * [highlightedyank](#highlightedyank)
 * [Preview colors in code](#preview-colors-in-code)
 * [vcoolor.vim](#vcoolorvim)
 * [vim-surround](#vim-surround)
-* [vim-indent-object](#vim-indent-object)
+* [Indent Guides](#indent-guides)
+   * [vim-indent-guides](#vim-indent-guides)
+   * [indentline](#indentline)
+   * [vim-indent-object](#vim-indent-object)
 * [vim-matchup](#vim-matchup)
 * [vim-visual-multi](#vim-visual-multi)
 * [vim-signature](#vim-signature)
@@ -436,15 +438,6 @@ https://github.com/inside/vim-search-pulse
 ![cursor line pulse](http://i.imgur.com/ukZuti2.gif)
 
 
-## indentline
-
-Display thin vertical lines at each indentation level for code indented
-
-https://github.com/yggdroot/indentline 
-
-![Screenshot](http://i.imgur.com/KVi0T.jpg)
-
-
 ## highlightedyank
 
 Highlight yanked region
@@ -501,7 +494,29 @@ https://github.com/tpope/vim-surround/blob/master/doc/surround.txt
 ```
 
 
-## vim-indent-object
+## Indent Guides
+
+### vim-indent-guides
+
+https://github.com/preservim/vim-indent-guides
+
+For visually displaying indent levels
+
+<img src="http://i.imgur.com/hHqp2.png" width="448" height="448" alt="" />
+
+
+### indentline
+
+For visually displaying indent levels
+
+Not maintained!
+
+https://github.com/yggdroot/indentline 
+
+![Screenshot](http://i.imgur.com/KVi0T.jpg)
+
+
+### vim-indent-object
 
 Selects all lines with the same or greater indent level
 
