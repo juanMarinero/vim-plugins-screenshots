@@ -65,7 +65,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [fzf.vim](#fzfvim)
   * [fzf-preview.vim](#fzf-previewvim)
   * [Telescope](#telescope)
-* [MRU](#mru)
+  * [MRU](#mru)
 * [vim-easymotion](#vim-easymotion)
 
 At bottom:
@@ -643,9 +643,9 @@ https://github.com/nvim-telescope/telescope.nvim
 ![telescope](https://i.imgur.com/TTTja6t.gif?raw=true "fzf-preview")
 
 
-## MRU
+### MRU
 
-Most-Recently Used files
+Most-Recently Used files. FZF results with `:FZFMru`
 
 https://github.com/yegappan/mru
 
