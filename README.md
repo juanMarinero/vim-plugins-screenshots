@@ -787,3 +787,41 @@ Distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, qu
 https://github.com/vim-airline/vim-airline
 
 ![img](https://github.com/vim-airline/vim-airline/wiki/screenshots/demo.gif?raw=true)
+
+
+----
+----
+
+## License
+
+**GPLv3** or later.
+This project is primarily licensed under the [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) or later.
+See the local copy [LICENSE](./LICENSE).
+
+### Media Attribution and Licensing
+
+This educational repository contains screenshots and other media derived from various Vim and NeoVim plugins.
+These materials are used for illustrative and educational purposes under the following conditions:
+
+1. **Plugin media**:
+   - Each screenshot and other media retain the original license of the respective Vim (or NeoVim) plugin
+   - Source attribution is provided either:
+     - Directly following the media link
+     - In the respective plugin repository's documentation (repository links are provided for each plugin).
+
+2. **Original Content**:
+   - All original written content, documentation, and any media not derived from plugin or third-party sources are licensed under GPLv3+
+   - These media files are stored locally in this repository
+
+3. **Third-party Content** (non-plugin sources):
+   - Only content that is neither from plugins nor original will have a *Source* link
+   - Users are responsible for verifying the license of any third-party content
+
+### Compliance Notice
+
+Users of this repository must:
+- Verify the license of any plugin before using its screenshots
+- Provide proper attribution when reusing any media
+- Contact the respective plugin authors if unsure about license compliance
+
+For any questions regarding licensing, please open an issue in this repository.
