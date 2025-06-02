@@ -62,6 +62,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [vim-simple-todo](#vim-simple-todo)
 * [File managers](#file-managers)
   * [NNN](#nnn)
+  * [telescope-file-browser.nvim](#telescope-file-browsernvim)
 * [FZF](#fzf)
   * [fzf.vim](#fzfvim)
   * [fzf-preview.vim](#fzf-previewvim)
@@ -622,6 +623,14 @@ https://github.com/mcchrish/nnn.vim
 
 <video autoplay="true" width="800px" muted="true" loop="false" controls="true" src="https://user-images.githubusercontent.com/7200153/127453278-3e638e33-707a-49c8-b34e-225c225906b1.mov" title="An example showing what ALE can do."></video>
 
+
+### telescope-file-browser.nvim
+
+See [Telescope](#telescope)
+
+For creation, deletion, renaming, and moving of files and folders.
+
+![Demo](https://user-images.githubusercontent.com/39233597/149016073-6fcc9383-a761-422b-be40-17d4b854cd3c.gif)
 
 
 ## FZF
