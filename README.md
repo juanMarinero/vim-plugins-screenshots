@@ -668,6 +668,8 @@ https://github.com/rnevius/vim-execution
 
 https://github.com/preservim/nerdcommenter#default-mappings
 
+[GIFs](https://qiita-com.translate.goog/pepo/items/09bacf98a36f6a7285ac?_x_tr_sl=auto&_x_tr_tl=en)
+
 
 ## vim-repeat
 
