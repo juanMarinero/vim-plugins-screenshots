@@ -624,10 +624,12 @@ https://github.com/yegappan/mru
 
 ## vim-easymotion
 
+https://github.com/easymotion/vim-easymotion
 
 1. Type `<Leader><Leader>w` to trigger the word motion w
 2. When the motion is triggered the text is updated as 
 ![code.tutsplus.com](https://cdn.tutsplus.com/cdn-cgi/image/width=600/net/uploads/legacy/951_vimEasyMotion/trigger.jpg?raw=true "code.tutsplus.com")
+[Source](https://code.tutsplus.com/tutorials/vim-essential-plugin-easymotion--net-19223)
 3. E.g. press `b` to jump to the beginning of the word *function* in line 6
 
 Multi-window inc-search
