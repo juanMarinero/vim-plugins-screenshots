@@ -60,7 +60,8 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [vim-codepainter](#vim-codepainter)
 * [vim-mark](#vim-mark)
 * [vim-simple-todo](#vim-simple-todo)
-* [NNN](#nnn)
+* [File managers](#file-managers)
+  * [NNN](#nnn)
 * [FZF](#fzf)
   * [fzf.vim](#fzfvim)
   * [fzf-preview.vim](#fzf-previewvim)
@@ -613,7 +614,9 @@ https://github.com/vitalk/vim-simple-todo
 ```
 
 
-## NNN
+## File managers
+
+### NNN
 
 https://github.com/mcchrish/nnn.vim
 
