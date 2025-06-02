@@ -155,10 +155,8 @@ https://github.com/mattn/emmet-vim
 
 https://github.com/jupyter-vim/jupyter-vim 
 
-![Video demo](https://github.com/jupyter-vim/jupyter-vim/blob/master/demo.png?raw=true)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h59cbg4HqpY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+Video:
+[![Video Thumbnail](https://github.com/jupyter-vim/jupyter-vim/blob/master/demo.png?raw=true)](https://www.youtube.com/watch?v=h59cbg4HqpY)
 
 ## jupytext (not a vim plugin)
 
