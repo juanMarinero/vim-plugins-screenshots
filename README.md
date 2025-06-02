@@ -512,12 +512,9 @@ For matchup pairs (if-else-... or chars `(`,`{`...). **Not neccesary** in same *
 
 https://github.com/andymass/vim-matchup
 
-Normal maps:
-- `%`, `g%`,...
-- `%w` (custom)
+Normal maps: `%`, `g%`,...
 
-Visual maps:
-- `i%`, `a%`,...
+Visual maps: `i%`, `a%`,...
 
 
 ![Screenshot](https://raw.githubusercontent.com/wiki/andymass/vim-matchup/images/match-up-hl1.gif)
