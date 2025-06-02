@@ -1,3 +1,5 @@
+> A picture is worth a thousand words
+
 Vim has so many plugins that I forget I have them all. This markdown is to quick view what each plugin does.
 
 <details>
