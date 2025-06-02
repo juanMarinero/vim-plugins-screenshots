@@ -297,6 +297,8 @@ https://github.com/puremourning/vimspector
 
 ![vimspector-vim-screenshot](https://puremourning.github.io/vimspector-web/img/vimspector-overview.png)
 
+See practical examples for Python and Javascript debugging in the MWEs of [juanMarinero/vim-install-basic](https://github.com/juanMarinero/vim-install-basic#minimal-working-examples), videos [here](https://github.com/juanMarinero/vim-install-basic/tree/main/videos).
+
 
 ## Snippets
 
