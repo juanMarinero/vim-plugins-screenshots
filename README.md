@@ -1,5 +1,7 @@
 Vim has so many plugins that I forget I have them all. This markdown is to quick view what each plugin does.
 
+<details>
+  <summary>Index - Click to expand</summary>
 
 * [ALE](#ale)
 * [prettier](#prettier)
@@ -71,6 +73,7 @@ At bottom:
 * [vim-json](#vim-json)
 * [vim-airline](#vim-airline)
 
+</details>
 
 ## ALE
 
