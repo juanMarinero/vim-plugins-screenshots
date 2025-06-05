@@ -82,6 +82,7 @@ At bottom:
 
 * [obsession-vim](#obsession-vim)
 * [vim-workspace](#vim-workspace)
+* [Recover.vim](#Recovervim)
 * [vim-execution](#vim-execution)
 * [NERDCommenter](#nerdcommenter)
 * [vim-repeat](#vim-repeat)
@@ -729,6 +730,23 @@ Auto create mksessions per dir
 
 https://github.com/thaerkh/vim-workspace
 
+
+## Recover.vim
+
+https://github.com/chrisbra/Recover.vim  adds `[C]ompare` entry to the list of actions, like this:
+
+```
+Found a swap file by the name "test/normal/.testfile.swp"
+        owned by: chrisbra   dated: Wed Nov 28 16:26:42 2012
+        file name: ~chrisbra/code/git/vim/Recover/test/normal/testfile
+        modified: YES
+        user name: chrisbra   host name: R500
+        process ID: 4878 [not existing]
+While opening file "test/normal/testfile"
+            dated: Tue Nov  6 20:11:55 2012
+Please choose:
+[C]ompare, (O)pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort, (D)elete:
+```
 
 
 ## vim-execution
