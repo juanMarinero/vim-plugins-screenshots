@@ -73,6 +73,9 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [Telescope](#telescope)
   * [MRU](#mru)
 * [vim-easymotion](#vim-easymotion)
+* [CSV](#csv)
+  * [csv.vim](#csvvim)
+  * [Rainbow CSV](#rainbow-csv)
 
 At bottom:
 - Hard to show screenshots like NERDCommenter
@@ -711,6 +714,17 @@ Multi-window inc-search
 
 [fuzzy-search](https://github.com/easymotion/vim-easymotion#bonus-fuzzy-search-with-easymotion), etc.
 
+
+## CSV
+
+### csv.vim
+
+![Screenshot](http://www.256bit.org/~chrisbra/csv.gif)
+
+
+### Rainbow CSV
+
+![Rainbow CSV Screenshot](https://user-images.githubusercontent.com/5349737/190057249-8ec401f6-b76d-4420-a6af-053dd502f8a9.png)
 
 
 ----
