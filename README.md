@@ -1,6 +1,10 @@
+<img align="right" src="media/repo_meme.gif" alt="Repository meme" width="450" height="450" style="padding-left: 40px;">
+
 > A picture is worth a thousand words
 
-Vim has so many plugins that I forget I have them all. This markdown is to quick view what each plugin does.
+**🖼️ == 1000 x 📝**
+
+Neo-/Vim has so many plugins that I forget I have them all. This markdown is to quickly and **visually** check the **main features** of some **plugins**.
 
 This is not a detailed list of all Neo/Vim plugins; for that, visit
 - [vim.org](https://www.vim.org/scripts/script_search_results.php?keywords=&script_type=&order_by=downloads&direction=descending&search=search) sorted by downloads/rating
@@ -11,7 +15,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 - [vim-plugin-list](https://github.com/altermo/vim-plugin-list) last maintained in 2024
 
 <details>
-  <summary>Index - Click to expand</summary>
+  <summary><strong>Index</strong> - Click to expand</summary>
 
 * [ALE](#ale)
 * [prettier](#prettier)
@@ -864,6 +868,7 @@ These materials are used for illustrative and educational purposes under the fol
 2. **Original Content**:
    - All original written content, documentation, and any media not derived from plugin or third-party sources are licensed under GPLv3+
    - These media files are stored locally in this repository
+   - If any content is partially based on other sources, a corresponding text file with the same name (homonym) will be provided to indicate the original sources.
 
 3. **Third-party Content** (non-plugin sources):
    - Only content that is neither from plugins nor original will have a *Source* link

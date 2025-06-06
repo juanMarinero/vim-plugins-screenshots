@@ -1,0 +1,79 @@
+Attribution for repo_meme.gif
+
+This media file contains elements derived from the following sources:
+
+1. Vim logo icon (modified):
+   - Original work: Bram Moolenaar and Vim community
+   - Source: Official Vim artwork (http://www.vim.org/logos.php)
+   - License: Charityware (Vim License)
+   - Modification: Background altered for educational-entertainment use
+
+2. "Evaluate javascript on save" GIF:
+   - Derived from: bracey.vim plugin
+   - Source: https://github.com/turbio/bracey.vim/
+   - License: GPLv2. Check https://github.com/turbio/bracey.vim/blob/master/LICENSE
+
+3. "I Read the Entire Neovim User Manual" image (cropped):
+   - Derived from: YouTube thumbnail (used under fair use for educational commentary)
+   - Original creator: TJ DeVries
+   - Source: https://www.youtube.com/watch?v=rT-fbLFOCy0
+   - Repository: https://github.com/tjdevries
+   - Note: TJ DeVries is a Neovim core maintainer and creator of educational content
+
+4. Drake Hotline Bling Meme Template (Modified):
+   - Source: Meme template via ImgFlip, https://imgflip.com/memegenerator/Drake-Hotline-Bling
+   - Origin: Derived from Drake's "Hotline Bling" music video (2015)
+   - Copyright: Warner Music Group/OVO (fair use claimed for parody)
+   - ImgFlip Terms Compliance:
+     - Used solely for educational non-commercial, entertainment purposes
+     - No affiliation with or endorsement by ImgFlip implied
+   - Modification: Face replace with Vim logo for Vim parody
+
+5. Original George Clooney GIF
+   - Source: "TLDR" GIF via Tenor https://tenor.com/view/tldr-george-clooney-too-long-didnt-read-flip-pages-gif-13114170
+   - Origin: Derived from public appearance footage
+   - Copyright: Likely owned by Clooney's representation/studio
+   - Transformative Modifications:
+     - Face obscured by "crazy-face" emoji
+     - Repurposed for software/editor commentary
+   - Tenor Terms Compliance:
+     - Used solely for educational non-commercial, entertainment purposes
+     - No Tenor affiliation or endorsement implied
+
+6. Crazy Face Emoji
+   - Unicode Character: U+1F92D
+   - Source: Standardized emoji (Unicode Consortium)
+   - Platform-Specific Design: 
+     - Rendered version may derive from iEmoji's implementation
+     - iEmoji Privacy Policy: https://www.iemoji.com/help/privacy
+   - License:
+     - Core Character: Free use under Unicode License (https://unicode.org/copyright.html)
+     - Visual Design: Subject to platform-specific terms
+   - Usage Note:
+     - This attribution satisfies iEmoji's requirement for credit
+     - No endorsement implied by iEmoji/Unicode
+
+7. Internet Grandma Meme Template
+   - Source: MakeAMeme.org (https://makeameme.org/character/internet-grandma)
+   - Specific Template Used: "When You See..." (https://makeameme.org/meme/when-you-see-1794dbd0df)
+   - MakeAMeme.org Policies:
+     - Privacy Policy: https://makeameme.org/privacypolicy
+     - Terms Compliance:
+       - Used for non-commercial, entertainment purposes
+       - No affiliation with or endorsement by MakeAMeme.org implied
+
+License Notice
+- The composite work (repo_meme.gif) as a whole is licensed under GPLv3+. Read the license section of this repository README.md for details.
+- Constituent elements retain their original licenses:
+  1. Vim logo icon: Charityware
+  2. bracey.vim GIF: GPLv2
+  3. YouTube thumbnail: Used under fair use (non-commercial/educational)
+  4. Drake meme: Drake/Cash Money Records (fair use claimed for parody/education)
+  5. George Clooney GIF: Tenor (fair use claimed for parody/education)
+  6. Crazy Face Emoji: Unicode Standard
+  7. Internet Grandma Meme Template: https://makeameme.org/privacypolicy
+
+When reusing, please comply with the original licenses of the constituent elements.
+
+Copyright concerns
+If you are the copyright holder and believe this use exceeds fair use, please open an issue to discuss removal.
