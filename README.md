@@ -84,7 +84,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 At bottom:
 - Hard to show screenshots like NERDCommenter
 - Read somewhere else like vim-fugitive
-- Not installed plugins like 🗄️ vim-dadbod ones
+- ToDo-s plugins like 🗄️ vim-dadbod ones
 - Automatic plugin like vim-airline
 
 * [obsession-vim](#obsession-vim)
