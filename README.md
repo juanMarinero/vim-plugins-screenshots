@@ -51,7 +51,10 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [illuminate](#illuminate)
 * [vim-search-pulse](#vim-search-pulse)
 * [highlightedyank](#highlightedyank)
-* [Preview colors in code](#preview-colors-in-code)
+* [Preview colors](#preview-colors)
+  * [clrzr](#clrzr)
+  * [nvim-colorizer.lua](#nvim-colorizerlua)
+  * [colorizer](#colorizer)
 * [vcoolor.vim](#vcoolorvim)
 * [vim-surround](#vim-surround)
 * [Indent Guides](#indent-guides)
@@ -466,20 +469,35 @@ https://github.com/machakann/vim-highlightedyank
 ![vim-highlightedyank](http://i.imgur.com/HulyZ6n.gif)
 
 
-## Preview colors in code
+## Preview colors
 
 🎨 
 
-![screenshot](https://github.com/lilydjwg/colorizer/raw/master/screenshot.png)
+### clrzr
 
-`if &termguicolors`
+`if &termguicolors && has('textprop')`
 
 https://github.com/BourgeoisBear/clrzr
 
+![screenshot](https://github.com/BourgeoisBear/clrzr/raw/master/clrzr_screenshot.png)
 
-`else`
+
+### nvim-colorizer.lua
+
+`if &termguicolors && has('nvim')`
+
+https://github.com/norcalli/nvim-colorizer.lua
+
+![Demo.gif](https://raw.githubusercontent.com/norcalli/github-assets/master/nvim-colorizer.lua-demo-short.gif)
+
+
+### colorizer
+
+`if !&termguicolors`
 
 https://github.com/lilydjwg/colorizer
+
+![screenshot](https://github.com/lilydjwg/colorizer/raw/master/screenshot.png)
 
 
 ## vcoolor.vim
