@@ -822,7 +822,9 @@ https://github.com/elzr/vim-json
 
 Distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing.
 
-![JSON syntax coloring](https://cloud.githubusercontent.com/assets/183877/7018898/98e428e0-dccf-11e4-9ab8-c554b3556155.jpg)
+| conceallevel=0 | conceallevel=2 |
+| --- | --- |
+| ![Image](https://github.com/user-attachments/assets/8c212181-37cf-425c-8e62-0e4e31aba9ec) | ![Image](https://github.com/user-attachments/assets/a3349ef7-3ee3-4282-8a35-53c8f9d30a19) |
 
 
 ## vim-airline
