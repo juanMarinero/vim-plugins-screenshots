@@ -80,24 +80,22 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [CSV](#csv)
   * [csv.vim](#csvvim)
   * [Rainbow CSV](#rainbow-csv)
+* [Recover.vim](#Recovervim)
+* [NERDCommenter](#nerdcommenter)
+* [VimDevIcons](#vimdevicons)
+* [vim-json](#vim-json)
+* [vim-airline](#vim-airline)
 
 At bottom:
-- Hard to show screenshots like NERDCommenter
-- Read somewhere else like vim-fugitive
+- Hard to show screenshots like vim-repeat
 - ToDo-s plugins like 🗄️ vim-dadbod ones
-- Automatic plugin like vim-airline
 
 * [obsession-vim](#obsession-vim)
 * [vim-workspace](#vim-workspace)
-* [Recover.vim](#Recovervim)
 * [vim-execution](#vim-execution)
-* [NERDCommenter](#nerdcommenter)
 * [vim-repeat](#vim-repeat)
 * [vim-dadbod](#vim-dadbod)
-* [VimDevIcons](#vimdevicons)
 * [html5.vim](#html5vim)
-* [vim-json](#vim-json)
-* [vim-airline](#vim-airline)
 
 * [Bonus](#bonus)
 
@@ -731,24 +729,6 @@ Multi-window inc-search
 ![Rainbow CSV Screenshot](https://user-images.githubusercontent.com/5349737/190057249-8ec401f6-b76d-4420-a6af-053dd502f8a9.png)
 
 
-----
-----
-
-
-## obsession-vim
-
-Update mksession automatic
-
-https://github.com/tpope/vim-obsession
-
-
-## vim-workspace
-
-Auto create mksessions per dir
-
-https://github.com/thaerkh/vim-workspace
-
-
 ## Recover.vim
 
 https://github.com/chrisbra/Recover.vim  adds `[C]ompare` entry to the list of actions, like this:
@@ -767,19 +747,64 @@ Please choose:
 ```
 
 
-## vim-execution
-
-Select line and run `@[macro]` instead of :`'<,'>normal @[macro]`
-
-https://github.com/rnevius/vim-execution
-
-
 ## NERDCommenter
 
 
 https://github.com/preservim/nerdcommenter#default-mappings
 
 [GIFs](https://qiita-com.translate.goog/pepo/items/09bacf98a36f6a7285ac?_x_tr_sl=auto&_x_tr_tl=en)
+
+
+## VimDevIcons
+
+https://github.com/ryanoasis/vim-devicons/wiki/Installation
+
+See https://github.com/ryanoasis/vim-devicons/wiki/screenshots
+
+<img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.10.x/overall-screenshot.png" alt="vim-devicons overall screenshot" />
+
+
+## vim-json
+
+https://github.com/elzr/vim-json
+
+Distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing.
+
+| conceallevel=0 | conceallevel=2 |
+| --- | --- |
+| ![Image](https://github.com/user-attachments/assets/8c212181-37cf-425c-8e62-0e4e31aba9ec) | ![Image](https://github.com/user-attachments/assets/a3349ef7-3ee3-4282-8a35-53c8f9d30a19) |
+
+
+## vim-airline
+
+https://github.com/vim-airline/vim-airline
+
+![img](https://github.com/vim-airline/vim-airline/wiki/screenshots/demo.gif?raw=true)
+
+
+----
+----
+
+
+## obsession-vim
+
+Update mksession automatic
+
+https://github.com/tpope/vim-obsession
+
+
+## vim-workspace
+
+Auto create mksessions per dir
+
+https://github.com/thaerkh/vim-workspace
+
+
+## vim-execution
+
+Select line and run `@[macro]` instead of :`'<,'>normal @[macro]`
+
+https://github.com/rnevius/vim-execution
 
 
 ## vim-repeat
@@ -801,37 +826,11 @@ https://github.com/kristijanhusak/vim-dadbod-ui
 https://github.com/kristijanhusak/vim-dadbod-completion
 
 
-## VimDevIcons
-https://github.com/ryanoasis/vim-devicons/wiki/Installation
-
-See https://github.com/ryanoasis/vim-devicons/wiki/screenshots
-
-<img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.10.x/overall-screenshot.png" alt="vim-devicons overall screenshot" />
-
-
 ## html5.vim
 
 Fix HTML indent
 
 https://github.com/othree/html5.vim 
-
-
-## vim-json
-
-https://github.com/elzr/vim-json
-
-Distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing.
-
-| conceallevel=0 | conceallevel=2 |
-| --- | --- |
-| ![Image](https://github.com/user-attachments/assets/8c212181-37cf-425c-8e62-0e4e31aba9ec) | ![Image](https://github.com/user-attachments/assets/a3349ef7-3ee3-4282-8a35-53c8f9d30a19) |
-
-
-## vim-airline
-
-https://github.com/vim-airline/vim-airline
-
-![img](https://github.com/vim-airline/vim-airline/wiki/screenshots/demo.gif?raw=true)
 
 
 ----
