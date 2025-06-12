@@ -738,6 +738,8 @@ Multi-window inc-search
 
 [fuzzy-search](https://github.com/easymotion/vim-easymotion#bonus-fuzzy-search-with-easymotion), etc.
 
+If with `/`, `?` or `g/` you cannot paste using `C-V`, then check outh [this](https://github.com/haya14busa/incsearch.vim/issues/158#issuecomment-2968041038).
+
 
 ## CSV
 
