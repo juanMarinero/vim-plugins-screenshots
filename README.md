@@ -389,6 +389,10 @@ Features that vim-gitgutter lacks:
 
 - Hunk reset
 
+- Show blame of current buffer using `:Gitsigns blame`. Press `Enter` to reblame or show commit (`:Gedit`).
+
+  ![image](media/gitsigns.nvim/Gitsigns_blame.png)
+
 - Show blame information for the current line in popup with `:Gitsigns blame_line`.
 
   ![image](https://github.com/user-attachments/assets/03ff7557-b538-4cd1-9478-f893bf7e616e)
