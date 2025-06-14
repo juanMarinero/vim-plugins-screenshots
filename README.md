@@ -68,6 +68,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [vim-codepainter](#vim-codepainter)
 * [vim-mark](#vim-mark)
 * [vim-simple-todo](#vim-simple-todo)
+* [switch.vim](#switchvim)
 * [File managers](#file-managers)
   * [NNN](#nnn)
   * [telescope-file-browser.nvim](#telescope-file-browsernvim)
@@ -651,6 +652,91 @@ https://github.com/vitalk/vim-simple-todo
 [x] Publish to GitHub
 [ ] Spread the word
 ```
+
+
+## switch.vim
+
+https://github.com/andrewradev/switch.vim
+
+
+Tip: map it to `let g:switch_mapping = "-"` to act like the `-` in [vim-fugitive](#vim-fugitive) `:Git` (with no arguments), previous `:Gstatus`, that enables to un-/stage files.
+
+It can switch a lot:
+
+
+<details>
+<summary><code>[ ]</code> &harr; <code>[x]</code> in list of tasks</summary>
+
+In a markdown like next
+
+```md
+- [x] Task 1
+- [ ] Task 2
+```
+
+set your cursor in any part of the second lines (task 2) and:
+
+- Run `:Switch`
+- Or use the mapping `-` if defined (otherwise use the default plugin mapping `gs`)
+
+Result: the  `[ ]` will switch to `[x]`.
+
+Repeat again to switch back.
+
+[References](https://github.com/andrewradev/switch.vim?tab=readme-ov-file#markdown).
+
+
+Tip: use map `-` (or `gs`) instead of mapping of `<Plug>(simple-todo-mark-switch)` of [vim-simple-todo](https://github.com/vitalk/vim-simple-todo) if installed.
+</details>
+
+
+<details>
+<summary><code>true</code> &harr; <code>false</code>, <code>True</code> &harr; <code>False</code>, <code>&&</code> &harr; <code>||</code></summary>
+
+- To trigger these replacements first move the cursor over the word to replace.
+[References](https://github.com/andrewradev/switch.vim?tab=readme-ov-file#global).
+- To switch between booleans anywhere on the line and return to the original cursor position check [this](https://github.com/AndrewRadev/switch.vim/wiki/Switch-boolean-on-line-and-return).
+</details>
+
+
+<details>
+<summary><code>pick</code> &rarr; <code>fixup</code> &rarr; <code>reword</code> &rarr; <code>edit</code> &rarr; <code>squash</code> &rarr; <code>exec</code> &rarr; <code>break</code> &rarr; <code>drop</code> &rarr; <code>label</code> &rarr; <code>reset</code> &rarr; <code>merge</code> &rarr; (loops back to <code>pick</code>)</summary>
+
+[References](https://github.com/andrewradev/switch.vim?tab=readme-ov-file#git-rebase).
+</details>
+
+
+<details>
+<summary><code>function example(one, two) { }</code> &harr; <code>var example = function(one, two) { }</code>, ES6 style <code>var example = function(one, two) { }</code> &harr; <code>var example = (one, two) => { }</code></summary>
+
+[References](https://github.com/andrewradev/switch.vim?tab=readme-ov-file#javascript).
+</details>
+
+
+<details>
+<summary>under_score &harr; camelCase</summary>
+
+References: [this](https://github.com/AndrewRadev/switch.vim/blob/main/examples/example_underscores.vim) and [this](https://github.com/andrewradev/switch.vim?tab=readme-ov-file#nested-dict-definitions).
+
+```vim
+let g:switch_global_definitions_underscore_from_to_camel = [
+  \   {
+  \     '\<[a-z0-9]\+_\k\+\>': {
+  \       '_\(.\)': '\U\1'
+  \     },
+  \     '\<[a-z0-9]\+[A-Z]\k\+\>': {
+  \       '\([A-Z]\)': '_\l\1'
+  \     },
+  \   }
+  \ ]
+```
+
+Tip: use another map, like `-c` , to no overshadow the global *switch.vim* rule (*definitions*) of `g:switch_custom_definitions`. Read [Customization](https://github.com/andrewradev/switch.vim?tab=readme-ov-file#customization).
+
+```vim
+nnoremap -c :call switch#Switch({'definitions': g:switch_global_definitions_underscore_from_to_camel})<CR>
+```
+</details>
 
 
 ## File managers
