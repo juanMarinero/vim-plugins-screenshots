@@ -13,6 +13,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 - [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) for NeoVim
 - [neovimcraft](https://neovimcraft.com/)
 - [vim-plugin-list](https://github.com/altermo/vim-plugin-list) last maintained in 2024
+- [dotfyle](https://dotfyle.com/)
 
 <details>
   <summary><strong>Index</strong> - Click to expand</summary>
