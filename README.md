@@ -80,6 +80,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [FZF](#fzf)
   * [fzf.vim](#fzfvim)
   * [fzf-preview.vim](#fzf-previewvim)
+  * [fzf-lua](#fzf-lua)
   * [Telescope](#telescope)
   * [MRU](#mru)
 * [vim-easymotion](#vim-easymotion)
@@ -815,6 +816,11 @@ https://github.com/junegunn/fzf/blob/master/README-VIM.md#fzf
 https://github.com/yuki-yano/fzf-preview.vim#features
 
 ![fzf-preview](https://user-images.githubusercontent.com/5423775/88540152-6e4fbc80-d04d-11ea-8d19-314ee5e4d294.gif?raw=true "fzf-preview")
+
+
+### fzf-lua
+
+https://github.com/ibhagwan/fzf-lua
 
 
 ### Telescope
