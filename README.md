@@ -49,9 +49,10 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [vim-fugitive](#vim-fugitive)
 * [diffchar](#diffchar)
 * [undotree](#undotree)
-* [illuminate](#illuminate)
-* [vim-search-pulse](#vim-search-pulse)
-* [highlightedyank](#highlightedyank)
+* [Visual Experience Enhancements](#visual-experience-enhancements)
+  * [illuminate](#illuminate)
+  * [vim-search-pulse](#vim-search-pulse)
+  * [highlightedyank](#highlightedyank)
 * [Preview colors](#preview-colors)
   * [clrzr](#clrzr)
   * [nvim-colorizer.lua](#nvim-colorizerlua)
@@ -450,7 +451,9 @@ https://github.com/mbbill/undotree
 ![](https://github.com/mbbill/undotree/blob/master/doc/_static/undotree.png)
 
 
-## illuminate
+## Visual Experience Enhancements
+
+### illuminate
 
 Highlight current word under the cursor
 
@@ -461,14 +464,14 @@ https://github.com/rrethy/vim-illuminate
 https://github.com/user-attachments/assets/fc1487cf-aa19-4238-af23-ab1ac2f5744a
 
 
-## vim-search-pulse
+### vim-search-pulse
 
 https://github.com/inside/vim-search-pulse
 
 ![cursor line pulse](http://i.imgur.com/ukZuti2.gif)
 
 
-## highlightedyank
+### highlightedyank
 
 Highlight yanked region
 
