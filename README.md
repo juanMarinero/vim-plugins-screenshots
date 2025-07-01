@@ -94,6 +94,10 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [VimDevIcons](#vimdevicons)
 * [vim-json](#vim-json)
 * [vim-airline](#vim-airline)
+* [Tabs](#tabs)
+  * [bufferline.nvim](#bufferlinenvim)
+  * [barbar.nvim](#barbarnvim)
+
 
 At bottom:
 - Hard to show screenshots like vim-repeat
@@ -931,6 +935,23 @@ Distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, qu
 https://github.com/vim-airline/vim-airline
 
 ![img](https://github.com/vim-airline/vim-airline/wiki/screenshots/demo.gif?raw=true)
+
+
+## Tabs
+
+### bufferline.nvim
+
+https://github.com/akinsho/bufferline.nvim
+
+![Demo GIF](https://user-images.githubusercontent.com/22454918/111992693-9c6a9b00-8b0d-11eb-8c39-19db58583061.gif)
+
+### barbar.nvim
+
+https://github.com/romgrk/barbar.nvim
+
+![demo](https://raw.githubusercontent.com/romgrk/barbar.nvim/refs/heads/master/static/demo.gif)
+
+![jump](https://raw.githubusercontent.com/romgrk/barbar.nvim/refs/heads/master/static/jump.gif)
 
 
 ----
