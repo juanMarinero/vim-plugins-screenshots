@@ -76,6 +76,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [NERDTree](#nerdtree)
   * [Neo-tree.nvim](#neotreenvim)
   * [oil.nvim](#oilnvim)
+  * [neovim-project](#neovim-project)
 * [FZF](#fzf)
   * [fzf.vim](#fzfvim)
   * [fzf-preview.vim](#fzf-previewvim)
@@ -778,6 +779,28 @@ https://github.com/stevearc/oil.nvim
 
 https://user-images.githubusercontent.com/506791/209727111-6b4a11f4-634a-4efa-9461-80e9717cea94.mp4
 
+
+### neovim-project
+
+https://github.com/coffebar/neovim-project
+
+![Neovim project preview](https://github.com/user-attachments/assets/7a4aa83d-c57d-4e11-9702-88d4d174fe77)
+
+[⚙️ Configuration](https://github.com/coffebar/neovim-project?tab=readme-ov-file#%EF%B8%8F-configuration)
+
+```lua
+{
+  -- Project directories
+  projects = {
+    "~/projects/*",
+    "~/p*cts/*", -- glob pattern is supported
+    "~/projects/repos/*",
+    "~/.config/*",
+    "~/work/*",
+  },
+  ...
+}
+```
 
 ## FZF
 
