@@ -53,6 +53,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [illuminate](#illuminate)
   * [vim-search-pulse](#vim-search-pulse)
   * [highlightedyank](#highlightedyank)
+  * [GUI with vim-quickui](#gui-with-vim-quickui)
 * [Preview colors](#preview-colors)
   * [clrzr](#clrzr)
   * [nvim-colorizer.lua](#nvim-colorizerlua)
@@ -478,6 +479,13 @@ Highlight yanked region
 https://github.com/machakann/vim-highlightedyank
 
 ![vim-highlightedyank](http://i.imgur.com/HulyZ6n.gif)
+
+
+### GUI with vim-quickui
+
+https://github.com/skywind3000/vim-quickui
+
+![](https://skywind3000.github.io/images/p/quickui/screenshot.gif)
 
 
 ## Preview colors
