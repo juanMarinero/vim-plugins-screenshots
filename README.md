@@ -51,6 +51,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Git branch viewer](#git-branch-viewer)
   * [gv.vim](#gvvim)
   * [vim-flog](#vim-flog)
+  * [gitgraph.nvim](#gitgraphnvim)
 * [undotree](#undotree)
 * [Visual Experience Enhancements](#visual-experience-enhancements)
   * [illuminate](#illuminate)
@@ -474,6 +475,13 @@ https://github.com/rbong/vim-flog
 Git branch viewer and [more](https://github.com/rbong/vim-flog/blob/master/EXAMPLES.md)
 
 ![flog in action](https://raw.githubusercontent.com/rbong/vim-flog/refs/heads/master/img/screen-graph.png)
+
+
+### gitgraph.nvim
+
+https://github.com/isakbm/gitgraph.nvim
+
+![screenshot](https://github.com/user-attachments/assets/c38aa5a5-274c-41b7-b552-7464f1331708)
 
 
 ## undotree
