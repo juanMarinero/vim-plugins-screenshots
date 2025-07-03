@@ -99,6 +99,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [barbar.nvim](#barbarnvim)
 * [Registers](#registers)
   * [vim-peekaboo](#vim-peekaboo)
+  * [vim-buffest](#vim-buffest)
 
 
 At bottom:
@@ -969,6 +970,14 @@ https://github.com/junegunn/vim-peekaboo
 Peekaboo extends `"` and `@` in normal mode and `<CTRL-R>` in insert mode so
 you can see the contents of the registers.
 
+
+### vim-buffest
+
+https://github.com/rbong/vim-buffest
+
+Easily edit vim registers/macros and lists as buffers.
+
+![demo video](https://raw.githubusercontent.com/rbong/vim-buffest/refs/heads/master/media/demo.gif)
 
 ----
 ----
