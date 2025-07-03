@@ -48,7 +48,9 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-gitgutter](#vim-gitgutter)
 * [vim-fugitive](#vim-fugitive)
 * [diffchar](#diffchar)
-* [vim-flog](#vim-flog)
+* [Git branch viewer](#git-branch-viewer)
+  * [gv.vim](#gvvim)
+  * [vim-flog](#vim-flog)
 * [undotree](#undotree)
 * [Visual Experience Enhancements](#visual-experience-enhancements)
   * [illuminate](#illuminate)
@@ -453,7 +455,19 @@ https://github.com/rickhowe/diffchar.vim
 ![demo](https://github.com/rickhowe/diffchar.vim/blob/master/demo.gif?raw=true)
 
 
-## vim-flog
+## Git branch viewer
+
+[Differences of branch viewers](https://github.com/rbong/vim-flog/blob/master/FAQ.md#what-are-the-differences-with-other-branch-viewers)
+
+
+### gv.vim
+
+https://github.com/junegunn/gv.vim
+
+![gv](https://cloud.githubusercontent.com/assets/700826/12355378/8bbf0834-bbdf-11e5-9389-1aba7cd1fec1.png)
+
+
+### vim-flog
 
 https://github.com/rbong/vim-flog
 
