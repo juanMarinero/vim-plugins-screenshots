@@ -58,6 +58,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-search-pulse](#vim-search-pulse)
   * [highlightedyank](#highlightedyank)
   * [GUI with vim-quickui](#gui-with-vim-quickui)
+  * [rainbow](#rainbow)
 * [Preview colors](#preview-colors)
   * [clrzr](#clrzr)
   * [nvim-colorizer.lua](#nvim-colorizerlua)
@@ -525,6 +526,15 @@ https://github.com/machakann/vim-highlightedyank
 https://github.com/skywind3000/vim-quickui
 
 ![](https://skywind3000.github.io/images/p/quickui/screenshot.gif)
+
+
+### rainbow
+
+https://github.com/luochen1990/rainbow
+
+Diff level of parentheses in diff colors
+
+![lisp](https://raw.githubusercontent.com/luochen1990/rainbow/demo/lisp.png)
 
 
 ## Preview colors
