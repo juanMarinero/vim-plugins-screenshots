@@ -926,6 +926,8 @@ If with `/`, `?` or `g/` you cannot paste using `C-V`, then check outh [this](ht
 
 ### Rainbow CSV
 
+https://github.com/mechatroner/rainbow_csv
+
 ![Rainbow CSV Screenshot](https://user-images.githubusercontent.com/5349737/190057249-8ec401f6-b76d-4420-a6af-053dd502f8a9.png)
 
 
