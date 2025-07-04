@@ -4,7 +4,7 @@
 
 **🖼️ == 1000 x 📝**
 
-Neo-/Vim has so many plugins that I forget I have them all. This markdown is to quickly and **visually** check the **main features** of some **plugins**.
+Neo-/Vim has so many **plugins**! **Visually** check their **main features** here.
 
 This is not a detailed list of all Neo/Vim plugins; for that, visit
 - [vim.org](https://www.vim.org/scripts/script_search_results.php?keywords=&script_type=&order_by=downloads&direction=descending&search=search) sorted by downloads/rating
