@@ -362,6 +362,8 @@ Auto close parentheses and repeat by dot dot dot...
 
 ![Screen Shot](http://i.gyazo.com/af2d7a59c82f93e49a6fd424dbbf6f88.gif)
 
+Check also [delimitMate](https://github.com/Raimondi/delimitMate).
+
 
 ## VimTex
 
