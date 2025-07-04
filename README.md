@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://github.com/juanMarinero/vim-plugins-screenshots/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="https://github.com/juanMarinero/vim-plugins-screenshots?tab=readme-ov-file#license"><img src="https://img.shields.io/github/license/juanMarinero/vim-plugins-screenshots" alt="License"></a>
+  <img src="https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white" alt="Vim">
+  <img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white" alt="NeoVim">
+</div>
+<br/>
+
 <img align="right" src="media/repo_meme.gif" alt="Repository meme" width="450" height="450" style="padding-left: 40px;">
 
 > A picture is worth a thousand words
