@@ -48,6 +48,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Snippets](#snippets)
   * [UltiSnips](#ultisnips)
   * [Coc-snippets](#coc-snippets)
+  * [lexima.vim](#leximavim)
 * [VimTex](#vimtex)
 * [vim-latex-live-preview](#vim-latex-live-preview)
 * [bracey.vim](#braceyvim)
@@ -351,6 +352,15 @@ https://github.com/sirver/ultisnips
 ### Coc-snippets
 
 https://github.com/neoclide/coc-snippets
+
+
+### lexima.vim
+
+https://github.com/cohama/lexima.vim
+
+Auto close parentheses and repeat by dot dot dot...
+
+![Screen Shot](http://i.gyazo.com/af2d7a59c82f93e49a6fd424dbbf6f88.gif)
 
 
 ## VimTex
