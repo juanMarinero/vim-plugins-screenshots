@@ -99,6 +99,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [fzf-lua](#fzf-lua)
   * [Telescope](#telescope)
   * [MRU](#mru)
+  * [Ferret](#ferret)
 * [vim-easymotion](#vim-easymotion)
 * [CSV](#csv)
   * [csv.vim](#csvvim)
@@ -917,6 +918,28 @@ Most-Recently Used files. FZF results with `:FZFMru`
 https://github.com/yegappan/mru
 
 ![issue59](https://user-images.githubusercontent.com/6072490/186197808-797b9b0d-48f3-46cc-9757-50a3d1e16d6b.png?raw=true "issue59")
+
+
+### Ferret
+
+https://github.com/wincent/ferret
+
+Multi-file search.
+
+![GIF](https://raw.githubusercontent.com/wincent/ferret/media/ferret.gif)
+
+
+Alternative with `:RG` of [fzf.vim](https://github.com/junegunn/fzf.vim) and `:cnext`/`:cprevious`
+
+<img src="media/ferret/fzf.vim_alternative.gif" alt="fzf.vim_alternative">
+
+
+Or in terminal via *ripgrep-all* + *FZF* as [here](https://github.com/phiresky/ripgrep-all/issues/207#issuecomment-3040402334)
+
+<img src="media/ferret/terminal_alternative.gif" alt="terminal_alternative">
+
+
+Recommended: [Vim Search and Replace With Examples](https://thevaluable.dev/vim-search-find-replace/) by [The Valuable Dev](https://thevaluable.dev/)
 
 
 ## vim-easymotion
