@@ -100,6 +100,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [Telescope](#telescope)
   * [MRU](#mru)
   * [Ferret](#ferret)
+  * [denite.nvim](#denitenvim)
 * [vim-easymotion](#vim-easymotion)
 * [CSV](#csv)
   * [csv.vim](#csvvim)
@@ -942,6 +943,15 @@ Or in terminal via *ripgrep-all* + *FZF* as [here](https://github.com/phiresky/r
 
 
 Recommended: [Vim Search and Replace With Examples](https://thevaluable.dev/vim-search-find-replace/) by [The Valuable Dev](https://thevaluable.dev/)
+
+
+### denite.nvim
+
+https://github.com/Shougo/denite.nvim
+
+> It is like a fuzzy finder, but is more generic.
+
+![denite new UI3](https://user-images.githubusercontent.com/41671631/58790351-cf832800-8622-11e9-912d-813408876b86.gif)
 
 
 ## vim-easymotion
