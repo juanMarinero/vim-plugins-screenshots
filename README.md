@@ -125,7 +125,7 @@ At bottom:
 - Hard to show screenshots like vim-repeat
 - ToDo-s plugins like 🗄️ vim-dadbod ones
 
-* [obsession-vim](#obsession-vim)
+* [obsession.vim](#obsessionvim)
 * [vim-workspace](#vim-workspace)
 * [vim-execution](#vim-execution)
 * [vim-repeat](#vim-repeat)
@@ -1117,9 +1117,9 @@ https://github.com/itchyny/calendar.vim
 ----
 
 
-## obsession-vim
+## obsession.vim
 
-Update mksession automatic
+Continuously updated session files
 
 https://github.com/tpope/vim-obsession
 
