@@ -26,8 +26,9 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 <details>
   <summary><strong>Index</strong> - Click to expand</summary>
 
-* [ALE](#ale)
-* [vim-prettier](#vim-prettier)
+* [Linters and fixers](#linters-and-fixers)
+  * [ALE](#ale)
+  * [vim-prettier](#vim-prettier)
 * [coc.nvim](#cocnvim)
 * [copilot.vim](#copilotvim)
 * [codeium.vim](#codeiumvim)
@@ -136,7 +137,10 @@ At bottom:
 
 </details>
 
-## ALE
+## Linters and fixers
+
+
+### ALE
 
 https://github.com/dense-analysis/ale
 
@@ -147,7 +151,7 @@ ALE is a swiss-army knife: linting + fixing + optional LSP client.
 See practical examples for Python and Javascript in the MWEs of [juanMarinero/vim-install-basic](https://github.com/juanMarinero/vim-install-basic#minimal-working-examples), first part of next [videos](https://github.com/juanMarinero/vim-install-basic/tree/main/videos).
 
 
-## vim-prettier
+### vim-prettier
 
 https://github.com/prettier/vim-prettier
 
