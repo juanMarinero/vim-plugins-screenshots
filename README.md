@@ -28,6 +28,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 
 * [Linters and fixers](#linters-and-fixers)
   * [ALE](#ale)
+  * [coc-diagnostic and diagnostic-languageserver](#coc-diagnostic-and-diagnostic-languageserver)
   * [vim-prettier](#vim-prettier)
 * [coc.nvim](#cocnvim)
 * [copilot.vim](#copilotvim)
@@ -149,6 +150,26 @@ ALE is a swiss-army knife: linting + fixing + optional LSP client.
 <video autoplay="true" muted="true" loop="false" controls="true" src="https://user-images.githubusercontent.com/3518142/210141215-8f2ff760-6a87-4704-a11e-c109b8e9ec41.mp4" title="An example showing what ALE can do."></video>
 
 See practical examples for Python and Javascript in the MWEs of [juanMarinero/vim-install-basic](https://github.com/juanMarinero/vim-install-basic#minimal-working-examples), first part of next [videos](https://github.com/juanMarinero/vim-install-basic/tree/main/videos).
+
+
+### coc-diagnostic and diagnostic-languageserver
+
+Use `:CocDiagnostics`.
+
+[docs - DIAGNOSTICS SUPPORT](https://github.com/neoclide/coc.nvim/blob/b1cb3c2b0d5199e55ab8459b521822530cdeb987/doc/coc.txt#L747C1-L747C20)
+
+[wiki - Using coc extensions](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#:~:text=coc%2Ddiagnostic%20for%20All)
+
+![image](https://user-images.githubusercontent.com/5492542/54487533-15590b80-48d2-11e9-8cba-7e58c0edcf6f.png)
+
+| Feature                | [coc-diagnostic](https://github.com/iamcco/coc-diagnostic) | [diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) |
+|------------------------|------------------------------------------------|------------------------------------------------|
+| **Role**               | Diagnostics *consumer* (UI)                    | Diagnostics *provider* (LSP-based linter)      |
+| **Linting**            | ❌ No (only displays diagnostics)              | ✅ Yes (wraps linters like `eslint`, `flake8`) |
+| **LSP Integration**    | Aggregates diagnostics *from* LSP/clients      | *Acts as an LSP server* for linter output      |
+| **Filetype Support**   | All (displays any LSP/coc.nvim diagnostics)    | Configurable per linter (no native LSP needed) |
+| **Dependency**        | Requires `coc.nvim`                            | Standalone LSP server (needs an LSP *client*)  |
+| **Output**            | UI (signs, virtual text, location list)       | Raw LSP diagnostics (requires client to display) |
 
 
 ### vim-prettier
