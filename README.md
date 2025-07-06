@@ -118,6 +118,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-peekaboo](#vim-peekaboo)
   * [vim-buffest](#vim-buffest)
 * [VimWiki](#vimwiki)
+* [calendar.vim](#calendarvim)
 
 
 At bottom:
@@ -1102,6 +1103,15 @@ Easily edit vim registers/macros and lists as buffers.
 https://github.com/vimwiki/vimwiki
 
 ![Lists View](https://raw.githubusercontent.com/vimwiki/vimwiki/refs/heads/dev/doc/lists.png)
+
+
+## calendar.vim
+
+https://github.com/itchyny/calendar.vim
+
+![calendar.vim](https://raw.githubusercontent.com/wiki/itchyny/calendar.vim/image/image.png)
+![calendar.vim](https://raw.githubusercontent.com/wiki/itchyny/calendar.vim/image/views.png)
+
 
 ----
 ----
