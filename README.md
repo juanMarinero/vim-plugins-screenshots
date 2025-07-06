@@ -193,9 +193,11 @@ https://github.com/prettier/vim-prettier
 
 ## coc.nvim
 
-https://github.com/neoclide/coc.nvim
+https://github.com/neoclide/coc.nvim and [wiki](https://github.com/neoclide/coc.nvim/wiki)
 
 <img alt="Custom coc popup menu with snippet support" src="https://github.com/neoclide/coc.nvim/assets/251450/05f60ab8-dcb1-40f7-9e4a-3c03f5db5398" width="90%" />
+
+The popup menu is one of the many features, like [CocSearch](#cocsearch). 
 
 
 ## copilot.vim
@@ -982,6 +984,12 @@ Alternative with `:RG` of [fzf.vim](https://github.com/junegunn/fzf.vim) and `:c
 Or in terminal via *ripgrep-all* + *FZF* as [here](https://github.com/phiresky/ripgrep-all/issues/207#issuecomment-3040402334)
 
 <img src="media/ferret/terminal_alternative.gif" alt="terminal_alternative">
+
+
+<a id="cocsearch" href="https://github.com/neoclide/coc.nvim/wiki/Multiple-cursors-support#use-cocsearch-command"><code>:CocSearch</code></a>
+does not use *FZF*, though it's an excellent way to rename a variable across files in CWD.
+
+![CocSearch](https://user-images.githubusercontent.com/251450/61948853-8aa0bf80-afdb-11e9-8e81-107eaed53c4b.png)
 
 
 Recommended: [Vim Search and Replace With Examples](https://thevaluable.dev/vim-search-find-replace/) by [The Valuable Dev](https://thevaluable.dev/)
