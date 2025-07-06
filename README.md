@@ -29,6 +29,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Linters and fixers](#linters-and-fixers)
   * [ALE](#ale)
   * [coc-diagnostic and diagnostic-languageserver](#coc-diagnostic-and-diagnostic-languageserver)
+  * [trouble.nvim](#troublenvim)
   * [vim-prettier](#vim-prettier)
 * [coc.nvim](#cocnvim)
 * [copilot.vim](#copilotvim)
@@ -170,6 +171,17 @@ Use `:CocDiagnostics`.
 | **Filetype Support**   | All (displays any LSP/coc.nvim diagnostics)    | Configurable per linter (no native LSP needed) |
 | **Dependency**        | Requires `coc.nvim`                            | Standalone LSP server (needs an LSP *client*)  |
 | **Output**            | UI (signs, virtual text, location list)       | Raw LSP diagnostics (requires client to display) |
+
+
+### trouble.nvim
+
+https://github.com/folke/trouble.nvim
+
+List for showing diagnostics, references, telescope results, quickfix and location lists
+
+Compatible with `:CocDiagnostics` via [this](https://github.com/folke/trouble.nvim/issues/12#issuecomment-1012478522).
+
+![image](https://github.com/folke/trouble.nvim/assets/292349/481bc1f7-cb93-432d-8ab6-f54044334b96)
 
 
 ### vim-prettier
