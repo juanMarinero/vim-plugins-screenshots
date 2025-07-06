@@ -53,8 +53,9 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [jupyter-vim](#jupyter-vim)
 * [jupytext (not a vim plugin)](#jupytext-not-a-vim-plugin)
 * [jupyter_ascending](#jupyter_ascending)
-* [vim-markdown](#vim-markdown)
-* [markdown-preview](#markdown-preview)
+* [Markdowns](#markdowns)
+  * [vim-markdown](#vim-markdown)
+  * [markdown-preview](#markdown-preview)
 * [vim-terminator](#vim-terminator)
 * [codi.vim](#codivim)
 * [vim-test](#vim-test)
@@ -371,7 +372,10 @@ https://github.com/imbue-ai/jupyter_ascending.vim
 ![Jupyter Ascending](https://github.com/imbue-ai/jupyter_ascending.vim/blob/master/media/simple_jupyter_ascending.gif?raw=true)
 
 
-## vim-markdown
+## Markdowns
+
+
+### vim-markdown
 
 https://github.com/preservim/vim-markdown
 
@@ -406,8 +410,7 @@ https://github.com/preservim/vim-markdown
 </details>
 
 
-
-## markdown-preview
+### markdown-preview
 
 https://github.com/iamcco/markdown-preview.nvim
 
