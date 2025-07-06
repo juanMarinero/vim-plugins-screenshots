@@ -32,9 +32,10 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [trouble.nvim](#troublenvim)
   * [vim-prettier](#vim-prettier)
 * [coc.nvim](#cocnvim)
-* [copilot.vim](#copilotvim)
-* [codeium.vim](#codeiumvim)
-* [vim-ai](#vim-ai)
+* [AI](#AI)
+  * [copilot.vim](#copilotvim)
+  * [codeium.vim](#codeiumvim)
+  * [vim-ai](#vim-ai)
 * [cheat.sh-vim](#cheatsh-vim)
 * [Ctags: tagbar](#ctags-tagbar)
 * [Ctags: vista.vim](#ctags-vistavim)
@@ -200,13 +201,16 @@ https://github.com/neoclide/coc.nvim and [wiki](https://github.com/neoclide/coc.
 The popup menu is one of the many features, like [CocSearch](#cocsearch). 
 
 
-## copilot.vim
+## AI
+
+
+### copilot.vim
 
 🤖
 https://github.com/github/copilot.vim
 
 
-## codeium.vim 
+### codeium.vim 
 
 🤖
 https://codeium.com/vim_tutorial
@@ -216,7 +220,7 @@ https://github.com/Exafunction/windsurf.vim
 ![Example](https://user-images.githubusercontent.com/1908017/213154744-984b73de-9873-4b85-998f-799d92b28eec.gif)
 
 
-## vim-ai
+### vim-ai
 
 🤖
 https://github.com/madox2/vim-ai
@@ -226,7 +230,6 @@ https://github.com/madox2/vim-ai
 
 ## cheat.sh-vim 
 
-~🤖
 https://gitlab.com/dbeniamine/cheat.sh-vim/ 
 
 <p align="center"> <img src='https://cheat.sh/files/vim-demo.gif'/> </p>
