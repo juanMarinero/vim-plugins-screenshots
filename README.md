@@ -33,6 +33,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-prettier](#vim-prettier)
 * [coc.nvim](#cocnvim)
 * [AI](#AI)
+  * [avante.nvim](#avantenvim)
   * [copilot.vim](#copilotvim)
   * [codeium.vim](#codeiumvim)
   * [vim-ai](#vim-ai)
@@ -202,6 +203,14 @@ The popup menu is one of the many features, like [CocSearch](#cocsearch).
 
 
 ## AI
+
+
+### avante.nvim
+
+https://github.com/yetone/avante.nvim
+
+<video autoplay="true" muted="true" loop="false" controls="true" src="https://github.com/user-attachments/assets/510e6270-b6cf-459d-9a2f-15b397d1fe53" title="Demo 2"></video>
+
 
 
 ### copilot.vim
