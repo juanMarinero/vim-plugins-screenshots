@@ -34,9 +34,10 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [coc.nvim](#cocnvim)
 * [AI](#AI)
   * [avante.nvim](#avantenvim)
-  * [copilot.vim](#copilotvim)
   * [codeium.vim](#codeiumvim)
   * [vim-ai](#vim-ai)
+* [GitHub Copilot](#github-copilot)
+  * [copilot.vim](#copilotvim)
 * [cheat.sh-vim](#cheatsh-vim)
 * [Ctags: tagbar](#ctags-tagbar)
 * [Ctags: vista.vim](#ctags-vistavim)
@@ -213,15 +214,8 @@ https://github.com/yetone/avante.nvim
 
 
 
-### copilot.vim
-
-🤖
-https://github.com/github/copilot.vim
-
-
 ### codeium.vim 
 
-🤖
 https://codeium.com/vim_tutorial
 
 https://github.com/Exafunction/windsurf.vim
@@ -231,10 +225,17 @@ https://github.com/Exafunction/windsurf.vim
 
 ### vim-ai
 
-🤖
 https://github.com/madox2/vim-ai
 
 ![vim-ai](https://github.com/madox2/vim-ai/blob/main/demo.gif?raw=true 'vim-ai')
+
+
+## GitHub Copilot
+
+### copilot.vim
+
+https://github.com/github/copilot.vim
+
 
 
 ## cheat.sh-vim 
