@@ -35,6 +35,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [AI](#AI)
   * [avante.nvim](#avantenvim)
   * [CodeCompanion.nvim](#codecompanionnvim)
+  * [ChatGPT.nvim](#chatgptnvim)
   * [codeium.vim](#codeiumvim)
   * [vim-ai](#vim-ai)
 * [GitHub Copilot](#github-copilot)
@@ -225,6 +226,13 @@ https://github.com/yetone/avante.nvim
 https://github.com/olimorris/codecompanion.nvim
 
 <video controls muted src="https://github.com/user-attachments/assets/aa109f1d-0ec9-4f08-bd9a-df99da03b9a4"></video>
+
+
+### ChatGPT.nvim
+
+https://github.com/jackMort/ChatGPT.nvim
+
+![preview image](https://github.com/jackMort/ChatGPT.nvim/blob/media/preview-2.png?raw=true)
 
 
 ### codeium.vim 
