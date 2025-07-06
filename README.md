@@ -209,7 +209,7 @@ The popup menu is one of the many features, like [CocSearch](#cocsearch).
 
 Recommended readings:
 
-- [atareo 668](https://atareao-es.translate.goog/podcast/inteligencia-artificial-en-neovim/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp), OV in Spanish
+- [atareao 668](https://atareao-es.translate.goog/podcast/inteligencia-artificial-en-neovim/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp), OV in Spanish
 
 
 ### avante.nvim
@@ -252,7 +252,7 @@ https://github.com/zbirenbaum/copilot-cmp
 
 Recommended readings:
 
-- [atareo 637](https://atareao-es.translate.goog/podcast/neovim-y-copilot-simplemente-brutal/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp), OV in Spanish
+- [atareao 637](https://atareao-es.translate.goog/podcast/neovim-y-copilot-simplemente-brutal/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp), OV in Spanish
 
 
 ### CopilotChat.nvim
