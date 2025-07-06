@@ -38,6 +38,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-ai](#vim-ai)
 * [GitHub Copilot](#github-copilot)
   * [copilot.vim](#copilotvim)
+  * [copilot.lua](#copilotlua)
 * [cheat.sh-vim](#cheatsh-vim)
 * [Ctags: tagbar](#ctags-tagbar)
 * [Ctags: vista.vim](#ctags-vistavim)
@@ -240,6 +241,17 @@ https://github.com/madox2/vim-ai
 
 https://github.com/github/copilot.vim
 
+
+### copilot.lua
+
+https://github.com/zbirenbaum/copilot.lua
+
+Also check
+https://github.com/zbirenbaum/copilot-cmp
+
+Recommended readings:
+
+- [atareo 637](https://atareao-es.translate.goog/podcast/neovim-y-copilot-simplemente-brutal/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp), OV in Spanish
 
 
 ## cheat.sh-vim 
