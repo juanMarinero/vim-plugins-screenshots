@@ -890,6 +890,8 @@ https://github.com/coffebar/neovim-project
 
 Find files/dirs/cmds quickly
 
+https://github.com/junegunn/fzf.vim
+
 https://github.com/junegunn/fzf/blob/master/README-VIM.md#fzf
 
 ### fzf-preview.vim
