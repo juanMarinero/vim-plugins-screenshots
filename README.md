@@ -105,6 +105,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [CSV](#csv)
   * [csv.vim](#csvvim)
   * [Rainbow CSV](#rainbow-csv)
+* [erd](#erd)
 * [Recover.vim](#Recovervim)
 * [NERDCommenter](#nerdcommenter)
 * [VimDevIcons](#vimdevicons)
@@ -986,6 +987,20 @@ https://github.com/chrisbra/csv.vim
 https://github.com/mechatroner/rainbow_csv
 
 ![Rainbow CSV Screenshot](https://user-images.githubusercontent.com/5349737/190057249-8ec401f6-b76d-4420-a6af-053dd502f8a9.png)
+
+
+## erd
+
+https://github.com/burntsushi/erd
+
+Convert a Relational Database Schema to a graphical Entity-Relationship Diagram (ERD).
+
+[![ER diagram for nfldb](https://raw.githubusercontent.com/BurntSushi/erd/master/examples/nfldb.png)](https://raw.githubusercontent.com/BurntSushi/erd/master/examples/nfldb.png)
+
+Alternatives: 
+[various](https://github.com/burntsushi/erd?tab=readme-ov-file#similar-software), 
+[erdplus](https://erdplus.com/), 
+[MySQL Workbench](https://www.mysql.com/products/workbench/),...
 
 
 ## Recover.vim
