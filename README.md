@@ -34,6 +34,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [coc.nvim](#cocnvim)
 * [AI](#AI)
   * [avante.nvim](#avantenvim)
+  * [CodeCompanion.nvim](#codecompanionnvim)
   * [codeium.vim](#codeiumvim)
   * [vim-ai](#vim-ai)
 * [GitHub Copilot](#github-copilot)
@@ -218,6 +219,12 @@ https://github.com/yetone/avante.nvim
 
 <video autoplay="true" muted="true" loop="false" controls="true" src="https://github.com/user-attachments/assets/510e6270-b6cf-459d-9a2f-15b397d1fe53" title="Demo 2"></video>
 
+
+### CodeCompanion.nvim
+
+https://github.com/olimorris/codecompanion.nvim
+
+<video controls muted src="https://github.com/user-attachments/assets/aa109f1d-0ec9-4f08-bd9a-df99da03b9a4"></video>
 
 
 ### codeium.vim 
