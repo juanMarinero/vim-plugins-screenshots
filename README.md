@@ -117,6 +117,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Registers](#registers)
   * [vim-peekaboo](#vim-peekaboo)
   * [vim-buffest](#vim-buffest)
+* [VimWiki](#vimwiki)
 
 
 At bottom:
@@ -1094,6 +1095,13 @@ https://github.com/rbong/vim-buffest
 Easily edit vim registers/macros and lists as buffers.
 
 ![demo video](https://raw.githubusercontent.com/rbong/vim-buffest/refs/heads/master/media/demo.gif)
+
+
+## VimWiki
+
+https://github.com/vimwiki/vimwiki
+
+![Lists View](https://raw.githubusercontent.com/vimwiki/vimwiki/refs/heads/dev/doc/lists.png)
 
 ----
 ----
