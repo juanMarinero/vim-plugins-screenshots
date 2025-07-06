@@ -57,6 +57,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-markdown](#vim-markdown)
   * [markdown-preview](#markdown-preview)
   * [render-markdown.nvim](#render-markdownnvim)
+  * [img-clip.nvim](#img-clipnvim)
 * [vim-terminator](#vim-terminator)
 * [codi.vim](#codivim)
 * [vim-test](#vim-test)
@@ -429,6 +430,15 @@ https://github.com/MeanderingProgrammer/render-markdown.nvim
 | ![Quote](https://github.com/user-attachments/assets/822ae62c-bc0f-40a7-b8bb-fb3a885a95f9)   | ![Quote](https://github.com/user-attachments/assets/aa002ac7-b30f-4079-bba9-505160a4ad78)   |
 | ![Callout](https://github.com/user-attachments/assets/e468a463-bc8d-420c-bb4c-da1263795092) | ![Callout](https://github.com/user-attachments/assets/d56cc5c7-43cd-4ce7-ad33-6164c2e23875) |
 | ![Latex](https://github.com/user-attachments/assets/7b859c0a-1bf6-4398-88b5-7bcde12f2390)   | ![Latex](https://github.com/user-attachments/assets/9ef14030-f688-47fd-95ff-befab1253322)   |
+
+
+### img-clip.nvim
+
+https://github.com/hakonharnes/img-clip.nvim
+
+Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+
+<video autoplay="true" muted="true" loop="false" controls="true" src="https://github.com/HakonHarnes/img-clip.nvim/assets/89907156/ab4edc10-d296-4532-bfce-6abdd4f218bf" title="img-clip.nvim"></video>
 
 
 ## vim-terminator
