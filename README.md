@@ -41,6 +41,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-ai](#vim-ai)
   * [gen.nvim](#gennvim)
   * [Minuet-AI.nvim](#minuet-ainvim)
+  * [model.nvim](#modelnvim)
 * [GitHub Copilot](#github-copilot)
   * [copilot.vim](#copilotvim)
   * [copilot.lua](#copilotlua)
@@ -277,6 +278,13 @@ https://github.com/milanglacier/minuet-ai.nvim
 
 
 ![example-cmp](https://raw.githubusercontent.com/milanglacier/minuet-ai.nvim/refs/heads/main/assets/example-cmp.png)
+
+
+### model.nvim
+
+https://github.com/gsuuon/model.nvim
+
+<video autoplay="true" muted="true" loop="false" controls="true" src="https://github.com/gsuuon/model.nvim/assets/6422188/3af3e65d-d13c-4196-abe1-07d605225c10" title="model.nvim"></video>
 
 
 ## GitHub Copilot
