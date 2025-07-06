@@ -205,6 +205,10 @@ The popup menu is one of the many features, like [CocSearch](#cocsearch).
 
 ## AI
 
+Recommended readings:
+
+- [atareo 668](https://atareao-es.translate.goog/podcast/inteligencia-artificial-en-neovim/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp), OV in Spanish
+
 
 ### avante.nvim
 
