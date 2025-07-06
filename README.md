@@ -39,6 +39,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [Gp.nvim](#gpnvim)
   * [codeium.vim](#codeiumvim)
   * [vim-ai](#vim-ai)
+  * [gen.nvim](#gennvim)
 * [GitHub Copilot](#github-copilot)
   * [copilot.vim](#copilotvim)
   * [copilot.lua](#copilotlua)
@@ -260,6 +261,13 @@ https://github.com/Exafunction/windsurf.vim
 https://github.com/madox2/vim-ai
 
 ![vim-ai](https://github.com/madox2/vim-ai/blob/main/demo.gif?raw=true 'vim-ai')
+
+
+### gen.nvim
+
+https://github.com/David-Kunz/gen.nvim
+
+![gen_nvim](https://github.com/David-Kunz/gen.nvim/assets/1009936/79f17157-9327-484a-811b-2d71ceb8fbe3)
 
 
 ## GitHub Copilot
