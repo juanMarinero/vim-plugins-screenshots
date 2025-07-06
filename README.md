@@ -56,6 +56,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Markdowns](#markdowns)
   * [vim-markdown](#vim-markdown)
   * [markdown-preview](#markdown-preview)
+  * [render-markdown.nvim](#render-markdownnvim)
 * [vim-terminator](#vim-terminator)
 * [codi.vim](#codivim)
 * [vim-test](#vim-test)
@@ -415,6 +416,19 @@ https://github.com/preservim/vim-markdown
 https://github.com/iamcco/markdown-preview.nvim
 
 ![animation of Markdown Preview with its own README.md](https://user-images.githubusercontent.com/5492542/47603494-28e90000-da1f-11e8-9079-30646e551e7a.gif)
+
+
+### render-markdown.nvim
+
+https://github.com/MeanderingProgrammer/render-markdown.nvim
+
+| Screenshot | Video     |
+| ---------- | --------- |
+| ![Heading](https://github.com/user-attachments/assets/40655575-b091-4ab8-b830-38f8004d7746) | ![Heading](https://github.com/user-attachments/assets/03f629ea-f6da-4f05-a035-827fd944e8be) |
+| ![Table](https://github.com/user-attachments/assets/7d021918-e89c-4b7d-b33a-869390f9a826)   | ![Table](https://github.com/user-attachments/assets/fdbcfbfa-5f9e-49b7-8c19-f7e837979a7a)   |
+| ![Quote](https://github.com/user-attachments/assets/822ae62c-bc0f-40a7-b8bb-fb3a885a95f9)   | ![Quote](https://github.com/user-attachments/assets/aa002ac7-b30f-4079-bba9-505160a4ad78)   |
+| ![Callout](https://github.com/user-attachments/assets/e468a463-bc8d-420c-bb4c-da1263795092) | ![Callout](https://github.com/user-attachments/assets/d56cc5c7-43cd-4ce7-ad33-6164c2e23875) |
+| ![Latex](https://github.com/user-attachments/assets/7b859c0a-1bf6-4398-88b5-7bcde12f2390)   | ![Latex](https://github.com/user-attachments/assets/9ef14030-f688-47fd-95ff-befab1253322)   |
 
 
 ## vim-terminator
