@@ -73,8 +73,9 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [UltiSnips](#ultisnips)
   * [Coc-snippets](#coc-snippets)
   * [lexima.vim](#leximavim)
-* [VimTex](#vimtex)
-* [vim-latex-live-preview](#vim-latex-live-preview)
+* [LaTeX](#latex)
+  * [VimTex](#vimtex)
+  * [vim-latex-live-preview](#vim-latex-live-preview)
 * [JS/HTML/CSS](#jshtmlcss)
   * [emmet-vim](#emmet-vim)
   * [bracey.vim](#braceyvim)
@@ -636,7 +637,10 @@ Auto close parentheses and repeat by dot dot dot...
 Check also [delimitMate](https://github.com/Raimondi/delimitMate).
 
 
-## VimTex
+## LaTeX
+
+
+### VimTex
 
 https://github.com/lervag/vimtex
 
@@ -653,7 +657,7 @@ documentation at `:help <Plug>(vimtex-][)` and `:help <Plug>(vimtex-[])`.
 MUCH MORE in: https://github.com/lervag/vimtex/blob/master/VISUALS.md
 
 
-## vim-latex-live-preview
+### vim-latex-live-preview
 
 https://github.com/xuhdev/vim-latex-live-preview
 
