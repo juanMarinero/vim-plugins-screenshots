@@ -56,7 +56,6 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Tags](#tags)
   * [tagbar](#tagbar)
   * [vista.vim](#vistavim)
-* [emmet-vim](#emmet-vim)
 * [jupyter-vim](#jupyter-vim)
 * [jupytext (not a vim plugin)](#jupytext-not-a-vim-plugin)
 * [jupyter_ascending](#jupyter_ascending)
@@ -75,7 +74,9 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [lexima.vim](#leximavim)
 * [VimTex](#vimtex)
 * [vim-latex-live-preview](#vim-latex-live-preview)
-* [bracey.vim](#braceyvim)
+* [JS/HTML/CSS](#jshtmlcss)
+  * [emmet-vim](#emmet-vim)
+  * [bracey.vim](#braceyvim)
 * [git-signs](#git-signs)
   * [gitsigns.nvim](#gitsignsnvim)
   * [vim-gitgutter](#vim-gitgutter)
@@ -452,13 +453,6 @@ Viewer & Finder for LSP symbols and tags
 > The feature of finder in vista.vim `:Vista finder [EXECUTIVE]` is a bit like `:BTags` or `:Tags` in [fzf.vim](https://github.com/junegunn/fzf.vim), `:CocList` in [coc.nvim](https://github.com/neoclide/coc.nvim), `:LeaderfBufTag` in [leaderf.vim](https://github.com/Yggdroot/LeaderF), etc. You can choose whatever you like.
 
 
-## emmet-vim
-
-https://github.com/mattn/emmet-vim
-
-![screenshot](https://raw.githubusercontent.com/mattn/emmet-vim/master/doc/screenshot.gif)
-
-
 ## jupyter-vim
 
 🐍 Send lines from Python script to qtconsole
@@ -662,7 +656,17 @@ https://github.com/xuhdev/vim-latex-live-preview
 ![Screenshot with Evince](https://github.com/xuhdev/vim-latex-live-preview/blob/master/misc/screenshot-evince.gif?raw=true)
 
 
-## bracey.vim
+## JS/HTML/CSS
+
+
+### emmet-vim
+
+https://github.com/mattn/emmet-vim
+
+![screenshot](https://raw.githubusercontent.com/mattn/emmet-vim/master/doc/screenshot.gif)
+
+
+### bracey.vim
 
 </> JS/CSS : live-preview
 
