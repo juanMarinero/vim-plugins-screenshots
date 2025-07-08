@@ -1562,14 +1562,10 @@ https://github.com/vim-airline/vim-airline
 
 https://github.com/powerline/powerline
 
-* .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-normal.png
-     :alt: Normal mode
-* .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-insert.png
-     :alt: Insert mode
-* .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-visual.png
-     :alt: Visual mode
-* .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-replace.png
-     :alt: Replace mode
+![Normal mode](https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-normal.png)
+![Insert mode](https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-insert.png)
+![Visual mode](https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-visual.png)
+![Replace mode](https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-replace.png)
 
 ### lightline.vim
 
