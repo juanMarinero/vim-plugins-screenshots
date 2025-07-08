@@ -53,8 +53,9 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [copilot.lua](#copilotlua)
   * [CopilotChat.nvim](#copilotchatnvim)
 * [cheat.sh-vim](#cheatsh-vim)
-* [Ctags: tagbar](#ctags-tagbar)
-* [Ctags: vista.vim](#ctags-vistavim)
+* [Tags](#tags)
+  * [tagbar](#tagbar)
+  * [vista.vim](#vistavim)
 * [emmet-vim](#emmet-vim)
 * [jupyter-vim](#jupyter-vim)
 * [jupytext (not a vim plugin)](#jupytext-not-a-vim-plugin)
@@ -390,14 +391,17 @@ https://gitlab.com/dbeniamine/cheat.sh-vim/
 <p align="center"> <img src='https://cheat.sh/files/vim-demo.gif'/> </p>
 
 
-## Ctags: tagbar
+## Tags
 
-https://github.com/majutsushi/tagbar#screenshots 
+
+### tagbar
+
+https://github.com/majutsushi/tagbar
 
 ![screenshot1](https://i.imgur.com/Sf9Ls2r.png)
 
 
-## Ctags: vista.vim
+### vista.vim
 
 https://github.com/liuchengxu/vista.vim
 
