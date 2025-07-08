@@ -35,6 +35,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [coc.nvim](#cocnvim)
   * [deoplete.nvim](#deopletenvim)
   * [ddc.vim](#ddcvim)
+  * [ncm2](#ncm2)
 * [AI](#AI)
   * [avante.nvim](#avantenvim)
   * [CodeCompanion.nvim](#codecompanionnvim)
@@ -237,6 +238,13 @@ From the creator of [neocomplete.vim](https://github.com/Shougo/neocomplete.vim)
 - development finished
 
 <video autoplay="true" muted="true" loop="false" controls="true" src="https://private-user-images.githubusercontent.com/3088610/400108402-2e2a9cd7-509b-4256-855d-2014a2ecb5b7.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5ODk1NDcsIm5iZiI6MTc1MTk4OTI0NywicGF0aCI6Ii8zMDg4NjEwLzQwMDEwODQwMi0yZTJhOWNkNy01MDliLTQyNTYtODU1ZC0yMDE0YTJlY2I1YjcubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MDhUMTU0MDQ3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZjFlODAyOGQzMWYyNGM0OWRkYzE1ZTBmYWQ4YTViMjMyZmJhNjM2ODgyODA5MjEzOWVmMzMzMDIxMGJhYzMyYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.M1-O2HYGgwcV39XVhh1twn6yOmkLWn6tyBubw1yC2H8" title="https://github.com/Shougo/ddc.vim/issues/32"></video>
+
+
+### ncm2
+
+https://github.com/ncm2/ncm2
+
+![peek 2018-07-17 18-15](https://user-images.githubusercontent.com/4538941/42811661-dbfb5ba2-89ed-11e8-81c4-3fb893d1af9c.gif)
 
 
 ## AI
