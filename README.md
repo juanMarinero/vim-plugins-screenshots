@@ -145,7 +145,6 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [NERDCommenter](#nerdcommenter)
 * [VimDevIcons](#vimdevicons)
 * [vim-json](#vim-json)
-* [vim-airline](#vim-airline)
 * [Tabs](#tabs)
   * [bufferline.nvim](#bufferlinenvim)
   * [barbar.nvim](#barbarnvim)
@@ -163,6 +162,8 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [strftimedammit.vim](#strftimedammitvim)
   * [Format date and time](#format-date-and-time)
   * [Update to current date and time](#update-to-current-date-and-time)
+* [Statusline](#statusline)
+  * [vim-airline](#vim-airline)
 
 
 At bottom:
@@ -1385,13 +1386,6 @@ Distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, qu
 | ![Image](https://github.com/user-attachments/assets/8c212181-37cf-425c-8e62-0e4e31aba9ec) | ![Image](https://github.com/user-attachments/assets/a3349ef7-3ee3-4282-8a35-53c8f9d30a19) |
 
 
-## vim-airline
-
-https://github.com/vim-airline/vim-airline
-
-![img](https://github.com/vim-airline/vim-airline/wiki/screenshots/demo.gif?raw=true)
-
-
 ## Tabs
 
 ### bufferline.nvim
@@ -1548,6 +1542,16 @@ and if needed use a plugin like [vim-update-time](https://github.com/QianChenglo
 
 To update any time under cursor check [speeddating-d_CTRL-X](https://github.com/tpope/vim-speeddating/blob/c17eb01ebf5aaf766c53bab1f6592710e5ffb796/doc/speeddating.txt#L41C50-L41C70)
 of [speeddating.vim](#speeddatingvim).
+
+
+## Statusline
+
+
+### vim-airline
+
+https://github.com/vim-airline/vim-airline
+
+![img](https://github.com/vim-airline/vim-airline/wiki/screenshots/demo.gif?raw=true)
 
 
 ----
