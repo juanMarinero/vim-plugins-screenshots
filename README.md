@@ -165,6 +165,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Statusline](#statusline)
   * [vim-airline](#vim-airline)
   * [Powerline](#powerline)
+  * [lightline.vim](#lightlinevim)
 
 
 At bottom:
@@ -1567,6 +1568,12 @@ https://github.com/powerline/powerline
      :alt: Visual mode
 * .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-replace.png
      :alt: Replace mode
+
+### lightline.vim
+
+https://github.com/itchyny/lightline.vim
+
+![lightline.vim - powerline](https://raw.githubusercontent.com/wiki/itchyny/lightline.vim/image/powerline.png)
 
 
 ----
