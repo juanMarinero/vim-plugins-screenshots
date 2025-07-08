@@ -153,6 +153,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [calendar.vim](#calendarvim)
   * [mattn/calendar.vim](#mattncalendarvim)
   * [due.nvim](#duenvim)
+  * [strftimedammit.vim](#strftimedammitvim)
 
 
 At bottom:
@@ -1420,6 +1421,21 @@ It provides you due for the date string.
 | -------------- | --------------- |
 | ![ex1](https://raw.githubusercontent.com/nfrid/due.nvim/refs/heads/main/img/ex1.png) | ![ex2](https://raw.githubusercontent.com/nfrid/due.nvim/refs/heads/main/img/ex2.png) |
 
+
+
+### strftimedammit.vim
+
+https://github.com/sjl/strftimedammit.vim
+
+Lists strftime-like formatting characters for:
+
+* Django
+* Java (Joda)
+* Perl
+* Python
+* Ruby
+
+![Screenshot](http://i.imgur.com/CIvqB.png)
 
 
 ----
