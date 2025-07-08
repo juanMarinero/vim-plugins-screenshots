@@ -96,7 +96,8 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [nvim-colorizer.lua](#nvim-colorizerlua)
   * [colorizer](#colorizer)
 * [vcoolor.vim](#vcoolorvim)
-* [vim-surround](#vim-surround)
+* [Automatic Pairs](#automatic-pairs)
+  * [vim-surround](#vim-surround)
 * [Indent Guides](#indent-guides)
    * [vim-indent-guides](#vim-indent-guides)
    * [indentline](#indentline)
@@ -814,8 +815,10 @@ Click on the image for a short screencast of the v0.1.
 
 [![Screencast of vCoolor](https://github.com/KabbAmine/vCoolor.vim/blob/master/.img/play-me.jpg)](https://www.youtube.com/watch?v=ZBJ_-Uxm55U)
 
+## Automatic Pairs
 
-## vim-surround
+
+### vim-surround
 
 Add/replace delimiters like `{`,`(`,`"`,`'`,`<p>`,...
 
