@@ -33,6 +33,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-prettier](#vim-prettier)
 * [Completion framework](#completion-framework)
   * [coc.nvim](#cocnvim)
+  * [deoplete.nvim](#deopletenvim)
 * [AI](#AI)
   * [avante.nvim](#avantenvim)
   * [CodeCompanion.nvim](#codecompanionnvim)
@@ -214,6 +215,16 @@ https://github.com/neoclide/coc.nvim and [wiki](https://github.com/neoclide/coc.
 <img alt="Custom coc popup menu with snippet support" src="https://github.com/neoclide/coc.nvim/assets/251450/05f60ab8-dcb1-40f7-9e4a-3c03f5db5398" width="90%" />
 
 The popup menu is one of the many features, like [CocSearch](#cocsearch). 
+
+
+### deoplete.nvim
+
+https://github.com/Shougo/deoplete.nvim
+
+
+| File Name Completion | Omni Completion | Neosnippets and neco-ghc integration |
+|----------------------|----------------|--------------------------------------|
+| ![File Name Completion](https://cloud.githubusercontent.com/assets/7141867/11717027/a99cac54-9f73-11e5-91ce-bce9274692e4.png) | ![Omni Completion](https://cloud.githubusercontent.com/assets/7141867/11717030/ae809a28-9f73-11e5-8c12-79fe9c460401.png) | ![Neosnippets and neco-ghc integration](https://cloud.githubusercontent.com/assets/7141867/11717032/b4159c0e-9f73-11e5-91ee-404e6390366a.png) |
 
 
 ## AI
