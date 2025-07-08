@@ -167,6 +167,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [Powerline](#powerline)
   * [lightline.vim](#lightlinevim)
   * [lualine.nvim](#lualinenvim)
+  * [mini-statusline](#mini-statusline)
 
 
 At bottom:
@@ -1588,6 +1589,14 @@ https://github.com/nvim-lualine/lualine.nvim
 <img width='700' src='https://user-images.githubusercontent.com/41551030/108650381-bfc70980-74bf-11eb-9245-85c48f0f154a.png'/>
 <img width='700' src='https://user-images.githubusercontent.com/41551030/103467925-32372b00-4d54-11eb-88d6-6d39c46854d8.png'/>
 </p>
+
+
+### mini-statusline
+
+https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-statusline.md
+
+
+<video autoplay="true" muted="true" loop="false" controls="true" src="https://user-images.githubusercontent.com/24854248/173045208-42463c8f-a2ac-488d-9d30-216891f4bb51.mp4" title="Demo"></video>
 
 
 ----
