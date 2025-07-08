@@ -98,6 +98,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [vcoolor.vim](#vcoolorvim)
 * [Automatic Pairs](#automatic-pairs)
   * [vim-surround](#vim-surround)
+  * [Auto Pairs](#auto-pairs)
 * [Indent Guides](#indent-guides)
    * [vim-indent-guides](#vim-indent-guides)
    * [indentline](#indentline)
@@ -832,6 +833,11 @@ https://github.com/tpope/vim-surround/blob/master/doc/surround.txt
   if *x>3 {                 ysW(        if ( x>3 ) {
   my $str = *whee!;         vllllS'     my $str = 'whee!';
 ```
+
+
+### Auto Pairs
+
+https://github.com/jiangmiao/auto-pairs
 
 
 ## Indent Guides
