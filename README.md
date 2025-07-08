@@ -156,6 +156,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [speeddating.vim](#speeddatingvim)
   * [strftimedammit.vim](#strftimedammitvim)
   * [Format date and time](#format-date-and-time)
+  * [Update to current date and time](#update-to-current-date-and-time)
 
 
 At bottom:
@@ -1463,6 +1464,15 @@ q
 ```
 
 Or create your own plugin alike [vim-human-dates](https://github.com/beaugunderson/vim-human-dates/blob/master/plugin/human_dates.vim). 
+
+
+### Update to current date and time
+
+To automatically update timestamps read [vim.fandom.com](https://vim.fandom.com/wiki/Insert_current_date_or_time#Automatically_update_timestamps)
+and if needed use a plugin like [vim-update-time](https://github.com/QianChenglong/vim-update-time)
+
+To update any time under cursor check [speeddating-d_CTRL-X](https://github.com/tpope/vim-speeddating/blob/c17eb01ebf5aaf766c53bab1f6592710e5ffb796/doc/speeddating.txt#L41C50-L41C70)
+of [speeddating.vim](#speeddatingvim).
 
 
 ----
