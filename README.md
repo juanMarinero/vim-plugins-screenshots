@@ -56,9 +56,10 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Tags](#tags)
   * [tagbar](#tagbar)
   * [vista.vim](#vistavim)
-* [jupyter-vim](#jupyter-vim)
-* [jupytext (not a vim plugin)](#jupytext-not-a-vim-plugin)
-* [jupyter_ascending](#jupyter_ascending)
+* [Jupyter](#jupyter)
+  * [jupyter-vim](#jupyter-vim)
+  * [jupytext (not a vim plugin)](#jupytext-not-a-vim-plugin)
+  * [jupyter_ascending](#jupyter_ascending)
 * [Markdowns](#markdowns)
   * [vim-markdown](#vim-markdown)
   * [markdown-preview](#markdown-preview)
@@ -453,7 +454,10 @@ Viewer & Finder for LSP symbols and tags
 > The feature of finder in vista.vim `:Vista finder [EXECUTIVE]` is a bit like `:BTags` or `:Tags` in [fzf.vim](https://github.com/junegunn/fzf.vim), `:CocList` in [coc.nvim](https://github.com/neoclide/coc.nvim), `:LeaderfBufTag` in [leaderf.vim](https://github.com/Yggdroot/LeaderF), etc. You can choose whatever you like.
 
 
-## jupyter-vim
+## Jupyter
+
+
+### jupyter-vim
 
 🐍 Send lines from Python script to qtconsole
 
@@ -462,14 +466,14 @@ https://github.com/jupyter-vim/jupyter-vim
 Video:
 [![Video Thumbnail](https://github.com/jupyter-vim/jupyter-vim/blob/master/demo.png?raw=true)](https://www.youtube.com/watch?v=h59cbg4HqpY)
 
-## jupytext (not a vim plugin)
+### jupytext (not a vim plugin)
 
 🐍 pip install jupytext: edit py files synced to the paired .ipynb
 
 https://jupytext.readthedocs.io/
 
 
-## jupyter_ascending
+### jupyter_ascending
 
 🐍 expand jupytext package. Automatic update ipynb file at save of py script. Also run cells.
 
