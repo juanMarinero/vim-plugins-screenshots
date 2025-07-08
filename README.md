@@ -160,6 +160,7 @@ At bottom:
 * [vim-repeat](#vim-repeat)
 * [vim-dadbod](#vim-dadbod)
 * [html5.vim](#html5vim)
+* [scriptease.vim](#scripteasevim)
 
 * [Bonus](#bonus)
 
@@ -1416,6 +1417,13 @@ https://github.com/kristijanhusak/vim-dadbod-completion
 Fix HTML indent
 
 https://github.com/othree/html5.vim 
+
+
+## scriptease.vim
+
+A Vim plugin for making Vim plugins.
+
+https://github.com/tpope/vim-scriptease
 
 
 ----
