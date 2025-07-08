@@ -152,6 +152,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [VimWiki](#vimwiki)
 * [ToDo-s, calendars and time formats](#todo-s-calendars-and-time-formats)
   * [vim-simple-todo](#vim-simple-todo)
+  * [Todo Comments](#todo-comments)
   * [calendar.vim](#calendarvim)
   * [mattn/calendar.vim](#mattncalendarvim)
   * [due.nvim](#duenvim)
@@ -1441,6 +1442,19 @@ https://github.com/vitalk/vim-simple-todo
 ```
 
 To just switch <code>[ ]</code> &harr; <code>[x]</code> in a list of tasks check [switch.vim](#switchvim).
+
+
+### Todo Comments
+
+https://github.com/folke/todo-comments.nvim
+
+To highlight and search for ToDo comments like `TODO`, `HACK` and `BUG`.
+
+![image](https://user-images.githubusercontent.com/292349/118135272-ad21e980-b3b7-11eb-881c-e45a4a3d6192.png)
+
+Show all ToDo-s in your project via location-/quickfix. Or even FZF-search with `:TodoTelescope` or `:TodoFzfLua`
+
+![image](https://user-images.githubusercontent.com/292349/118135371-ccb91200-b3b7-11eb-9002-66af3b683cf0.png)
 
 
 ### calendar.vim
