@@ -31,7 +31,8 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [coc-diagnostic and diagnostic-languageserver](#coc-diagnostic-and-diagnostic-languageserver)
   * [trouble.nvim](#troublenvim)
   * [vim-prettier](#vim-prettier)
-* [coc.nvim](#cocnvim)
+* [Completion framework](#completion-framework)
+  * [coc.nvim](#cocnvim)
 * [AI](#AI)
   * [avante.nvim](#avantenvim)
   * [CodeCompanion.nvim](#codecompanionnvim)
@@ -204,8 +205,9 @@ https://github.com/prettier/vim-prettier
 
 ![vim-prettier](https://github.com/prettier/vim-prettier/blob/master/media/vim-prettier.gif?raw=true 'vim-prettier')
 
+## Completion framework
 
-## coc.nvim
+### coc.nvim
 
 https://github.com/neoclide/coc.nvim and [wiki](https://github.com/neoclide/coc.nvim/wiki)
 
