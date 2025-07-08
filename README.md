@@ -101,6 +101,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [Auto Pairs](#auto-pairs)
   * [nvim-autopairs](#nvim-autopairs)
   * [coc-pairs](#coc-pairs)
+  * [mini-pairs](#mini-pairs)
 * [Indent Guides](#indent-guides)
    * [vim-indent-guides](#vim-indent-guides)
    * [indentline](#indentline)
@@ -850,6 +851,11 @@ https://github.com/windwp/nvim-autopairs
 ### coc-pairs
 
 https://github.com/neoclide/coc-pairs
+
+
+### mini-pairs
+
+https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pairs.md
 
 
 ## Indent Guides
