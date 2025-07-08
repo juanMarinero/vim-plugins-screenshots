@@ -115,6 +115,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [vim-mark](#vim-mark)
 * [vim-simple-todo](#vim-simple-todo)
 * [switch.vim](#switchvim)
+* [splitjoin.vim](#splitjoinvim)
 * [File managers](#file-managers)
   * [NNN](#nnn)
   * [telescope-file-browser.nvim](#telescope-file-browsernvim)
@@ -1066,6 +1067,17 @@ Tip: use another map, like `-c` , to no overshadow the global *switch.vim* rule 
 nnoremap -c :call switch#Switch({'definitions': g:switch_global_definitions_underscore_from_to_camel})<CR>
 ```
 </details>
+
+
+## splitjoin.vim
+
+https://github.com/AndrewRadev/splitjoin.vim
+
+`gS` to **s**plit a one-liner into multiple lines
+<br>
+`gJ` to **j**oin  multiple lines into a one-liner
+
+![Demo](http://i.andrewradev.com/2fcc9f013816ec744c54e57476afac32.gif)
 
 
 ## File managers
