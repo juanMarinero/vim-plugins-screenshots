@@ -213,7 +213,7 @@ https://github.com/prettier/vim-prettier
 
 ## Completion framework
 
-Similar Plugin Comparisons: [deoplete.nvim - FAQs](https://github.com/Shougo/deoplete.nvim/blob/e5a47d4a2f0b2b6f568e708163e2354097e611c6/doc/deoplete.txt#L1999)
+Similar Plugins Comparisons: [deoplete.nvim - FAQs](https://github.com/Shougo/deoplete.nvim/blob/e5a47d4a2f0b2b6f568e708163e2354097e611c6/doc/deoplete.txt#L1999)
 
 
 ### coc.nvim
