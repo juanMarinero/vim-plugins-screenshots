@@ -430,6 +430,25 @@ Viewer & Finder for LSP symbols and tags
 </tr>
 </table>
 
+`:h vista-finder` to FZF-seach them ased on:
+
+<table>
+<tr>
+    <td>universal-ctags</td>
+    <td><code>:Vista finder</code></td>
+</tr>
+<tr>
+    <td>coc</td>
+    <td><code>:Vista finder coc</code></td>
+</tr>
+<tr>
+    <td>...</td>
+    <td>...</td>
+</tr>
+</table>
+
+> The feature of finder in vista.vim `:Vista finder [EXECUTIVE]` is a bit like `:BTags` or `:Tags` in [fzf.vim](https://github.com/junegunn/fzf.vim), `:CocList` in [coc.nvim](https://github.com/neoclide/coc.nvim), `:LeaderfBufTag` in [leaderf.vim](https://github.com/Yggdroot/LeaderF), etc. You can choose whatever you like.
+
 
 ## emmet-vim
 
