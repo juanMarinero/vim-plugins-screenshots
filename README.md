@@ -34,6 +34,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Completion framework](#completion-framework)
   * [coc.nvim](#cocnvim)
   * [deoplete.nvim](#deopletenvim)
+  * [ddc.vim](#ddcvim)
 * [AI](#AI)
   * [avante.nvim](#avantenvim)
   * [CodeCompanion.nvim](#codecompanionnvim)
@@ -225,6 +226,17 @@ https://github.com/Shougo/deoplete.nvim
 | File Name Completion | Omni Completion | Neosnippets and neco-ghc integration |
 |----------------------|----------------|--------------------------------------|
 | ![File Name Completion](https://cloud.githubusercontent.com/assets/7141867/11717027/a99cac54-9f73-11e5-91ce-bce9274692e4.png) | ![Omni Completion](https://cloud.githubusercontent.com/assets/7141867/11717030/ae809a28-9f73-11e5-8c12-79fe9c460401.png) | ![Neosnippets and neco-ghc integration](https://cloud.githubusercontent.com/assets/7141867/11717032/b4159c0e-9f73-11e5-91ee-404e6390366a.png) |
+
+
+### ddc.vim
+
+https://github.com/Shougo/ddc.vim
+
+From the creator of [neocomplete.vim](https://github.com/Shougo/neocomplete.vim), which is
+- not compatible with above Vim 8.2.1066
+- development finished
+
+<video autoplay="true" muted="true" loop="false" controls="true" src="https://private-user-images.githubusercontent.com/3088610/400108402-2e2a9cd7-509b-4256-855d-2014a2ecb5b7.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5ODk1NDcsIm5iZiI6MTc1MTk4OTI0NywicGF0aCI6Ii8zMDg4NjEwLzQwMDEwODQwMi0yZTJhOWNkNy01MDliLTQyNTYtODU1ZC0yMDE0YTJlY2I1YjcubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDcwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA3MDhUMTU0MDQ3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZjFlODAyOGQzMWYyNGM0OWRkYzE1ZTBmYWQ4YTViMjMyZmJhNjM2ODgyODA5MjEzOWVmMzMzMDIxMGJhYzMyYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.M1-O2HYGgwcV39XVhh1twn6yOmkLWn6tyBubw1yC2H8" title="https://github.com/Shougo/ddc.vim/issues/32"></video>
 
 
 ## AI
