@@ -151,6 +151,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [ToDo-s, calendars and time formats](#todo-s-calendars-and-time-formats)
   * [vim-simple-todo](#vim-simple-todo)
   * [calendar.vim](#calendarvim)
+  * [mattn/calendar.vim](#mattncalendarvim)
 
 
 At bottom:
@@ -1394,6 +1395,17 @@ https://github.com/itchyny/calendar.vim
 
 ![calendar.vim](https://raw.githubusercontent.com/wiki/itchyny/calendar.vim/image/image.png)
 ![calendar.vim](https://raw.githubusercontent.com/wiki/itchyny/calendar.vim/image/views.png)
+
+
+### mattn/calendar.vim
+
+https://github.com/mattn/calendar-vim/blob/master/doc/calendar.txt
+
+`:Calendar` to bring up a calendar month based on today's date in a vertically split window.
+<br>
+`:Calendar 11` for November in the current year.
+<br>
+`:Calendar 1991 11` for November 1991.
 
 
 ----
