@@ -405,10 +405,30 @@ https://github.com/majutsushi/tagbar
 
 https://github.com/liuchengxu/vista.vim
 
-<p align="center">
-    <img width="900px" src="https://user-images.githubusercontent.com/8850248/56469894-14d40780-6472-11e9-802f-729ac53bd4d5.gif">
-    <p align="center">Vista ctags</p>
-</p>
+Viewer & Finder for LSP symbols and tags
+
+<img width="900px" src="https://user-images.githubusercontent.com/8850248/56469894-14d40780-6472-11e9-802f-729ac53bd4d5.gif">
+
+`:h vista-executive` for help to view tags and LSP symbols in a sidebar based on:
+
+<table>
+<tr>
+    <td>universal-ctags</td>
+    <td><code>:Vista</code></td>
+</tr>
+<tr>
+    <td>coc</td>
+    <td><code>:Vista coc</code></td>
+</tr>
+<tr>
+    <td>vim-lsp</td>
+    <td><code>:Vista vim_lsp</code></td>
+</tr>
+<tr>
+    <td>...</td>
+    <td>...</td>
+</tr>
+</table>
 
 
 ## emmet-vim
