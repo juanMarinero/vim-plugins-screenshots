@@ -164,6 +164,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [Update to current date and time](#update-to-current-date-and-time)
 * [Statusline](#statusline)
   * [vim-airline](#vim-airline)
+  * [Powerline](#powerline)
 
 
 At bottom:
@@ -1552,6 +1553,20 @@ of [speeddating.vim](#speeddatingvim).
 https://github.com/vim-airline/vim-airline
 
 ![img](https://github.com/vim-airline/vim-airline/wiki/screenshots/demo.gif?raw=true)
+
+
+### Powerline
+
+https://github.com/powerline/powerline
+
+* .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-normal.png
+     :alt: Normal mode
+* .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-insert.png
+     :alt: Insert mode
+* .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-visual.png
+     :alt: Visual mode
+* .. image:: https://raw.github.com/powerline/powerline/develop/docs/source/_static/img/pl-mode-replace.png
+     :alt: Replace mode
 
 
 ----
