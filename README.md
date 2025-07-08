@@ -168,6 +168,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [lightline.vim](#lightlinevim)
   * [lualine.nvim](#lualinenvim)
   * [mini-statusline](#mini-statusline)
+  * [galaxyline.nvim](#galaxylinenvim)
 
 
 At bottom:
@@ -1593,6 +1594,23 @@ https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-statusline.md
 
 
 <video autoplay="true" muted="true" loop="false" controls="true" src="https://user-images.githubusercontent.com/24854248/173045208-42463c8f-a2ac-488d-9d30-216891f4bb51.mp4" title="Demo"></video>
+
+
+### galaxyline.nvim
+
+https://github.com/nvimdev/galaxyline.nvim
+
+- Author: [glepnir](https://github.com/glepnir)
+
+![eviline](https://user-images.githubusercontent.com/41671631/110282770-05d0b100-801a-11eb-91b1-e30eacec9a1c.png)
+
+- Author: [Christian Chiarulli](https://github.com/ChristianChiarulli)
+
+![galaxyline](https://user-images.githubusercontent.com/29136904/97791654-2b9d0380-1bab-11eb-8133-d8160d3f72cd.png)
+
+- Author: [BenoitPingris](https://github.com/bpingris)
+
+![galaxyline](https://user-images.githubusercontent.com/29386109/98808605-b3d99f00-241c-11eb-81dc-0caa852fe478.png)
 
 
 ----
