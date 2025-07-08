@@ -153,6 +153,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [calendar.vim](#calendarvim)
   * [mattn/calendar.vim](#mattncalendarvim)
   * [due.nvim](#duenvim)
+  * [speeddating.vim](#speeddatingvim)
   * [strftimedammit.vim](#strftimedammitvim)
 
 
@@ -1421,6 +1422,12 @@ It provides you due for the date string.
 | -------------- | --------------- |
 | ![ex1](https://raw.githubusercontent.com/nfrid/due.nvim/refs/heads/main/img/ex1.png) | ![ex2](https://raw.githubusercontent.com/nfrid/due.nvim/refs/heads/main/img/ex2.png) |
 
+
+### speeddating.vim
+
+https://github.com/tpope/vim-speeddating/blob/master/doc/speeddating.txt
+
+Use `CTRL-A`/`CTRL-X` to increment dates, times, and more.
 
 
 ### strftimedammit.vim
