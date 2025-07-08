@@ -1165,6 +1165,14 @@ https://github.com/yegappan/mru
 
 ![issue59](https://user-images.githubusercontent.com/6072490/186197808-797b9b0d-48f3-46cc-9757-50a3d1e16d6b.png?raw=true "issue59")
 
+Btw.
+[Startify](https://github.com/mhinz/vim-startify),
+[alpha-nvim](https://github.com/goolord/alpha-nvim),
+[dashboard-nvim](https://github.com/nvimdev/dashboard-nvim),...
+are fancy start screens for Neo-/Vim which also show MRU files, sessions, bookmarks,... though without FZF support:
+
+![Startify in action!](https://github.com/mhinz/vim-startify/blob/master/images/startify-menu.png)
+
 
 ### Ferret
 
