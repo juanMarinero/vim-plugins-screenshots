@@ -91,6 +91,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [highlightedyank](#highlightedyank)
   * [GUI with vim-quickui](#gui-with-vim-quickui)
   * [rainbow](#rainbow)
+  * [Vim Better Whitespace](#vim-better-whitespace)
 * [Preview colors](#preview-colors)
   * [clrzr](#clrzr)
   * [nvim-colorizer.lua](#nvim-colorizerlua)
@@ -775,6 +776,15 @@ https://github.com/luochen1990/rainbow
 Diff level of parentheses in diff colors
 
 ![lisp](https://raw.githubusercontent.com/luochen1990/rainbow/demo/lisp.png)
+
+
+### Vim Better Whitespace
+
+https://github.com/ntpeters/vim-better-whitespace
+
+Highlighting trailing spaces, tabs and a mixture of both.
+
+![Tabs Screenshot](http://i.imgur.com/bbsVRUf.png)
 
 
 ## Preview colors
