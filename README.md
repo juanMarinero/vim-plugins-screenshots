@@ -33,6 +33,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-prettier](#vim-prettier)
 * [Completion framework](#completion-framework)
   * [coc.nvim](#cocnvim)
+  * [nvim-cmp](#nvim-cmp)
   * [deoplete.nvim](#deopletenvim)
   * [ddc.vim](#ddcvim)
   * [ncm2](#ncm2)
@@ -222,6 +223,13 @@ https://github.com/neoclide/coc.nvim and [wiki](https://github.com/neoclide/coc.
 <img alt="Custom coc popup menu with snippet support" src="https://github.com/neoclide/coc.nvim/assets/251450/05f60ab8-dcb1-40f7-9e4a-3c03f5db5398" width="90%" />
 
 The popup menu is one of the many features, like [CocSearch](#cocsearch). 
+
+
+### nvim-cmp
+
+https://github.com/hrsh7th/nvim-cmp
+
+<video autoplay="true" muted="true" loop="false" controls="true" src="https://github.com/hrsh7th/nvim-cmp/assets/22756295/afa70011-9121-4e42-aedd-0153b630eeab" title="demo"></video>
 
 
 ### deoplete.nvim
