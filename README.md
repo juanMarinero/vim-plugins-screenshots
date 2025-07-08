@@ -36,6 +36,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [deoplete.nvim](#deopletenvim)
   * [ddc.vim](#ddcvim)
   * [ncm2](#ncm2)
+  * [asyncomplete.vim](#asyncompletevim)
 * [AI](#AI)
   * [avante.nvim](#avantenvim)
   * [CodeCompanion.nvim](#codecompanionnvim)
@@ -245,6 +246,11 @@ From the creator of [neocomplete.vim](https://github.com/Shougo/neocomplete.vim)
 https://github.com/ncm2/ncm2
 
 ![peek 2018-07-17 18-15](https://user-images.githubusercontent.com/4538941/42811661-dbfb5ba2-89ed-11e8-81c4-3fb893d1af9c.gif)
+
+
+### asyncomplete.vim
+
+https://github.com/prabirshrestha/asyncomplete.vim
 
 
 ## AI
