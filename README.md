@@ -166,6 +166,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-airline](#vim-airline)
   * [Powerline](#powerline)
   * [lightline.vim](#lightlinevim)
+  * [lualine.nvim](#lualinenvim)
 
 
 At bottom:
@@ -1574,6 +1575,19 @@ https://github.com/powerline/powerline
 https://github.com/itchyny/lightline.vim
 
 ![lightline.vim - powerline](https://raw.githubusercontent.com/wiki/itchyny/lightline.vim/image/powerline.png)
+
+
+### lualine.nvim
+
+https://github.com/nvim-lualine/lualine.nvim
+
+<p>
+<img width='700' src='https://user-images.githubusercontent.com/41551030/108650373-bb025580-74bf-11eb-8682-2c09321dd18e.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/41551030/108650377-bd64af80-74bf-11eb-9c55-fbfc51b39fe8.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/41551030/108650378-be95dc80-74bf-11eb-9718-82b242ecdd54.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/41551030/108650381-bfc70980-74bf-11eb-9245-85c48f0f154a.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/41551030/103467925-32372b00-4d54-11eb-88d6-6d39c46854d8.png'/>
+</p>
 
 
 ----
