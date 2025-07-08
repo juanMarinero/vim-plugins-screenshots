@@ -994,7 +994,7 @@ It can switch a lot:
 
 
 <details>
-<summary><code>[ ]</code> &harr; <code>[x]</code> in list of tasks</summary>
+<summary><code>[ ]</code> &harr; <code>[x]</code> in a list of tasks</summary>
 
 In a markdown like next
 
@@ -1384,6 +1384,8 @@ https://github.com/vitalk/vim-simple-todo
 [x] Publish to GitHub
 [ ] Spread the word
 ```
+
+To just switch <code>[ ]</code> &harr; <code>[x]</code> in a list of tasks check [switch.vim](#switchvim).
 
 
 ### calendar.vim
