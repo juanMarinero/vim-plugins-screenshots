@@ -152,6 +152,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-simple-todo](#vim-simple-todo)
   * [calendar.vim](#calendarvim)
   * [mattn/calendar.vim](#mattncalendarvim)
+  * [due.nvim](#duenvim)
 
 
 At bottom:
@@ -1406,6 +1407,19 @@ https://github.com/mattn/calendar-vim/blob/master/doc/calendar.txt
 `:Calendar 11` for November in the current year.
 <br>
 `:Calendar 1991 11` for November 1991.
+
+
+### due.nvim
+
+https://github.com/nfrid/due.nvim
+
+It provides you due for the date string.
+
+
+| Y-M-weeks-days | ...-hour-minutes |
+| -------------- | --------------- |
+| ![ex1](https://raw.githubusercontent.com/nfrid/due.nvim/refs/heads/main/img/ex1.png) | ![ex2](https://raw.githubusercontent.com/nfrid/due.nvim/refs/heads/main/img/ex2.png) |
+
 
 
 ----
