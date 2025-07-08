@@ -132,6 +132,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [MRU](#mru)
   * [Ferret](#ferret)
   * [denite.nvim](#denitenvim)
+  * [FZF tags](#fzf-tags)
 * [vim-easymotion](#vim-easymotion)
 * [CSV](#csv)
   * [csv.vim](#csvvim)
@@ -1270,6 +1271,11 @@ https://github.com/Shougo/denite.nvim
 > It is like a fuzzy finder, but is more generic.
 
 ![denite new UI3](https://user-images.githubusercontent.com/41671631/58790351-cf832800-8622-11e9-912d-813408876b86.gif)
+
+
+### FZF tags
+
+Read [vista.vim](#vistavim).
 
 
 ## vim-easymotion
