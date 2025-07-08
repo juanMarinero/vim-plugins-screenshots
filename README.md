@@ -114,7 +114,6 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [vim-bookmarks](#vim-bookmarks)
 * [vim-codepainter](#vim-codepainter)
 * [vim-mark](#vim-mark)
-* [vim-simple-todo](#vim-simple-todo)
 * [switch.vim](#switchvim)
 * [splitjoin.vim](#splitjoinvim)
 * [File managers](#file-managers)
@@ -149,7 +148,9 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-peekaboo](#vim-peekaboo)
   * [vim-buffest](#vim-buffest)
 * [VimWiki](#vimwiki)
-* [calendar.vim](#calendarvim)
+* [ToDo-s, calendars and time formats](#todo-s-calendars-and-time-formats)
+  * [vim-simple-todo](#vim-simple-todo)
+  * [calendar.vim](#calendarvim)
 
 
 At bottom:
@@ -982,18 +983,6 @@ https://github.com/inkarkat/vim-mark
 <img alt="https://superuser.com/questions/147496/how-do-i-highlight-multiple-words-in-vim" src="https://i.sstatic.net/2SUo9.png" width="90%" />
 
 
-## vim-simple-todo
-
-https://github.com/vitalk/vim-simple-todo
-
-```
-[x] Create plugin
-[x] Add helpful documentation
-[x] Publish to GitHub
-[ ] Spread the word
-```
-
-
 ## switch.vim
 
 https://github.com/andrewradev/switch.vim
@@ -1382,7 +1371,22 @@ https://github.com/vimwiki/vimwiki
 ![Lists View](https://raw.githubusercontent.com/vimwiki/vimwiki/refs/heads/dev/doc/lists.png)
 
 
-## calendar.vim
+## ToDo-s, calendars and time formats
+
+
+### vim-simple-todo
+
+https://github.com/vitalk/vim-simple-todo
+
+```
+[x] Create plugin
+[x] Add helpful documentation
+[x] Publish to GitHub
+[ ] Spread the word
+```
+
+
+### calendar.vim
 
 https://github.com/itchyny/calendar.vim
 
