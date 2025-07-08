@@ -155,6 +155,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [due.nvim](#duenvim)
   * [speeddating.vim](#speeddatingvim)
   * [strftimedammit.vim](#strftimedammitvim)
+  * [Format date and time](#format-date-and-time)
 
 
 At bottom:
@@ -1443,6 +1444,25 @@ Lists strftime-like formatting characters for:
 * Ruby
 
 ![Screenshot](http://i.imgur.com/CIvqB.png)
+
+
+### Format date and time
+
+
+Read `strftime()` [documentation](https://vimhelp.org/builtin.txt.html#strftime%28%29)
+
+Example with a macro [here](https://agill.xyz/vim/timestamps#Macro)
+
+```
+qd
+0
+"tcib
+<C-r>=strftime("%FT%T %Z", @t)<CR>
+<Esc>
+q
+```
+
+Or create your own plugin alike [vim-human-dates](https://github.com/beaugunderson/vim-human-dates/blob/master/plugin/human_dates.vim). 
 
 
 ----
