@@ -1342,6 +1342,7 @@ Convert a Relational Database Schema to a graphical Entity-Relationship Diagram 
 Alternatives: 
 [various](https://github.com/burntsushi/erd?tab=readme-ov-file#similar-software), 
 [erdplus](https://erdplus.com/), 
+[drawdb](https://github.com/drawdb-io/drawdb),
 [MySQL Workbench](https://www.mysql.com/products/workbench/),...
 
 
