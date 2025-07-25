@@ -20,6 +20,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 - [awesome-vim](https://github.com/akrawchyk/awesome-vim) grouped by section and alphabetically sorted
 - [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) for NeoVim
 - [neovimcraft](https://neovimcraft.com/)
+- [awesome-vim9](https://github.com/saccarosium/awesome-vim9) collection of vim9script plugins
 - [vim-plugin-list](https://github.com/altermo/vim-plugin-list) last maintained in 2024
 - [dotfyle](https://dotfyle.com/)
 
