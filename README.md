@@ -75,6 +75,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [UltiSnips](#ultisnips)
   * [Coc-snippets](#coc-snippets)
   * [lexima.vim](#leximavim)
+  * [LuaSnip](#luasnip)
 * [LaTeX](#latex)
   * [VimTex](#vimtex)
   * [vim-latex-live-preview](#vim-latex-live-preview)
@@ -650,6 +651,13 @@ Auto close parentheses and repeat by dot dot dot...
 ![Screen Shot](http://i.gyazo.com/af2d7a59c82f93e49a6fd424dbbf6f88.gif)
 
 Check also [delimitMate](https://github.com/Raimondi/delimitMate).
+
+
+### LuaSnip
+
+https://github.com/L3MON4D3/LuaSnip
+
+<video autoplay="true" muted="true" loop="false" controls="true" src="https://user-images.githubusercontent.com/41961280/122515860-5179fa00-d00e-11eb-91f7-331893f61fbf.mp4" title="Demo"></video>
 
 
 ## LaTeX
