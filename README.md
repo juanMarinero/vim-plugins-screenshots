@@ -1712,7 +1712,8 @@ https://github.com/tpope/vim-scriptease
 - [ALE](#ale), [coc.nvim](#cocnvim) and [vimspector-debugger](#vimspector-debugger) are essential Vim plugins.
 But not easy to configure. Take a look at [juanMarinero/vim-install-basic](https://github.com/juanMarinero/vim-install-basic), for example for [ALE](https://github.com/juanMarinero/vim-install-basic/tree/main/plugins/ale).
 - Other plugins are difficult to master. For example [vim-visual-multi](#vim-visual-multi) requires some practice. Check out [juanMarinero/vim-visual-multi-exercises](https://github.com/juanMarinero/vim-visual-multi-exercises)
-- Scripting, travel, hobbies,... check my [blogs](https://www.juan-marinero.info/blogs_index/)!
+- Scripting, travel, hobbies,... check my [blogs](https://juanmarinero.github.io/blogs_index/)!
+
 
 ----
 ----
