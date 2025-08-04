@@ -103,7 +103,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [clrzr](#clrzr)
   * [nvim-colorizer.lua](#nvim-colorizerlua)
   * [colorizer](#colorizer)
-* [vcoolor.vim](#vcoolorvim)
+  * [vcoolor.vim](#vcoolorvim)
 * [Automatic Pairs](#automatic-pairs)
   * [vim-surround](#vim-surround)
   * [mini-surround](#mini-surround)
@@ -905,7 +905,7 @@ https://github.com/lilydjwg/colorizer
 ![screenshot](https://github.com/lilydjwg/colorizer/raw/master/screenshot.png)
 
 
-## vcoolor.vim
+### vcoolor.vim
 
 🎨 
 
