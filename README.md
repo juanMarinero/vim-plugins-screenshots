@@ -104,6 +104,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [nvim-colorizer.lua](#nvim-colorizerlua)
   * [colorizer](#colorizer)
   * [vcoolor.vim](#vcoolorvim)
+  * [Terminal via Zenity and Pastel](#terminal-via-zenity-and-pastel)
 * [Automatic Pairs](#automatic-pairs)
   * [vim-surround](#vim-surround)
   * [mini-surround](#mini-surround)
@@ -918,6 +919,16 @@ In GNU/Linux it uses a simple GTK+ dialog via Zenity or Yad.
 Click on the image for a short screencast of the v0.1.
 
 [![Screencast of vCoolor](https://github.com/KabbAmine/vCoolor.vim/blob/master/.img/play-me.jpg)](https://www.youtube.com/watch?v=ZBJ_-Uxm55U)
+
+
+### Terminal via Zenity and Pastel
+
+https://juanmarinero.github.io/blogs/color_picker/
+
+<a href="https://juanmarinero.github.io/blogs/color_picker/">
+<img align="center" src="https://juanmarinero.github.io/images/blogs/color_picker/color_picker_and_pastel_with_notes.png" alt="Color Picker and Pastel" width="450">
+</a>
+
 
 ## Automatic Pairs
 
