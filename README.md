@@ -146,6 +146,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [Rainbow CSV](#rainbow-csv)
 * [Align](#align)
   * [VIM Table Mode](#vim-table-mode)
+  * [vim-easy-align](#vim-easy-align)
 * [erd](#erd)
 * [Recover.vim](#Recovervim)
 * [NERDCommenter](#nerdcommenter)
@@ -1374,6 +1375,40 @@ Align and much more:
 
 Video:
 [![Video Thumbnail](https://raw.github.com/axil/vim-table-mode/master/youtube.png?raw=true)](http://www.youtube.com/watch?v=9lVQ0VJY3ps)
+
+
+### vim-easy-align
+
+https://github.com/junegunn/vim-easy-align
+
+
+**Predefined alignment rules**
+
+![](https://raw.githubusercontent.com/junegunn/i/master/easy-align/equals.gif)
+
+Visual select lines and run `:EasyAlign ` followed by
+- `=` Around the 1st occurrences. Command line shows `:'<,'>EasyAlign =`
+- `2=` Around the 2nd occurrences
+- `*=` Around all occurrences
+- `**=` Left/Right alternating alignment around all occurrences
+- `<Enter>` Switching between left/right/center alignment modes
+
+
+**Aligning table cells**
+
+![](https://raw.githubusercontent.com/junegunn/i/master/easy-align/tables.gif)
+
+- E.g. Visual select lines and run `:EasyAlign *|`.
+- *Live interactive mode*:
+  1. Visual select the table
+  2. Run `:LiveEasyAlign *|`
+  3. `<Enter>` to switch between multiple alignment modes (watch GIF)
+  4. `|` to select current align or `<Esc>` to cancel
+
+This plugin does **not auto**matically align tables as you type. [VIM Table Mode](#vim-table-mode) plugin achieves this.
+
+
+**More demos** in its [README](https://github.com/junegunn/vim-easy-align#demo).
 
 
 ## erd
