@@ -144,6 +144,8 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [CSV](#csv)
   * [csv.vim](#csvvim)
   * [Rainbow CSV](#rainbow-csv)
+* [Align](#align)
+  * [VIM Table Mode](#vim-table-mode)
 * [erd](#erd)
 * [Recover.vim](#Recovervim)
 * [NERDCommenter](#nerdcommenter)
@@ -1357,6 +1359,21 @@ https://github.com/chrisbra/csv.vim
 https://github.com/mechatroner/rainbow_csv
 
 ![Rainbow CSV Screenshot](https://user-images.githubusercontent.com/5349737/190057249-8ec401f6-b76d-4420-a6af-053dd502f8a9.png)
+
+
+## Align
+
+### VIM Table Mode
+
+https://github.com/dhruvasagar/vim-table-mode
+
+Align and much more:
+- Automatic table creator
+- Table formulas
+- Formatting CSV into a table (`:Tableize`)
+
+Video:
+[![Video Thumbnail](https://raw.github.com/axil/vim-table-mode/master/youtube.png?raw=true)](http://www.youtube.com/watch?v=9lVQ0VJY3ps)
 
 
 ## erd
