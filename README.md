@@ -149,6 +149,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [vim-easy-align](#vim-easy-align)
   * [vim-visual-multi for align](#vim-visual-multi-for-align)
   * [Tabular](#tabular)
+  * [mini.align from mini.nvim](#mini-align-from-mininvim)
 * [erd](#erd)
 * [Recover.vim](#Recovervim)
 * [NERDCommenter](#nerdcommenter)
@@ -1466,6 +1467,13 @@ Everyone exemplified in
 https://github.com/godlygeek/tabular
 
 http://vimcasts.org/episodes/aligning-text-with-tabular-vim/
+
+
+### mini.align from mini.nvim
+
+https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md
+
+https://user-images.githubusercontent.com/24854248/191686791-2c8b345a-2bcc-4de7-a065-5e7a36e2eb1a.mp4
 
 
 ## erd
