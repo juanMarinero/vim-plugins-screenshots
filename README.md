@@ -148,6 +148,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [VIM Table Mode](#vim-table-mode)
   * [vim-easy-align](#vim-easy-align)
   * [vim-visual-multi for align](#vim-visual-multi-for-align)
+  * [Tabular](#tabular)
 * [erd](#erd)
 * [Recover.vim](#Recovervim)
 * [NERDCommenter](#nerdcommenter)
@@ -1458,6 +1459,13 @@ Everyone exemplified in
 [juanMarinero/vim-visual-multi-exercises](https://github.com/juanMarinero/vim-visual-multi-exercises#leader-a-to-align-the-rightmost-column-countleader--to-align-by-char--leader--to-align-by-regex).
 
 *Aligning* is one of many capabilities of this plugin described [here](#vim-visual-multi).
+
+
+### Tabular
+
+https://github.com/godlygeek/tabular
+
+http://vimcasts.org/episodes/aligning-text-with-tabular-vim/
 
 
 ## erd
