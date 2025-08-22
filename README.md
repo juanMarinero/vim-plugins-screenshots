@@ -1385,6 +1385,8 @@ Align and much more:
 Video:
 [![Video Thumbnail](https://raw.github.com/axil/vim-table-mode/master/youtube.png?raw=true)](http://www.youtube.com/watch?v=9lVQ0VJY3ps)
 
+It can even highlight table cells based on regex! Explained in [#244](https://github.com/dhruvasagar/vim-table-mode/issues/244).
+
 
 ### vim-easy-align
 
