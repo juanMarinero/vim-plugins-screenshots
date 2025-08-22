@@ -147,6 +147,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Align](#align)
   * [VIM Table Mode](#vim-table-mode)
   * [vim-easy-align](#vim-easy-align)
+  * [vim-visual-multi for align](#vim-visual-multi-for-align)
 * [erd](#erd)
 * [Recover.vim](#Recovervim)
 * [NERDCommenter](#nerdcommenter)
@@ -1032,20 +1033,28 @@ Visual maps: `i%`, `a%`,...
 
 ## vim-visual-multi
 
-E.g. to align by `=` 3 lines: 
- - cursor at start 1st line
- - `Ctrl-V`
- - `jj`
- - `\\c`
- - `f=`
- - `\\a` 
-
 https://github.com/mg979/vim-visual-multi
 
+Undo/Redo edits and selections
 
-![Imgur](https://i.imgur.com/u5pPY5W.gif)
+![Imgur](https://i.imgur.com/gwFfUxq.gif)
 
-See exercises: https://github.com/juanMarinero/vim-visual-multi-exercises.
+Alternate cursor/extend mode
+
+![Imgur](https://i.imgur.com/ggQr1Ve.gif)
+
+Synched column transposition
+
+![Imgur](https://i.imgur.com/9JDaLBi.gif)
+
+**Align** capabilities described [here](#vim-visual-multi-for-align).
+
+And and a whole lot more features! Check:
+
+- Further GIFs in its [README](https://github.com/mg979/vim-visual-multi/blob/master/README.md).
+- And its [Wiki](https://github.com/mg979/vim-visual-multi/wiki)
+> This wiki will be kept for screenshots but consider it outdated for everything else.
+- Self promoting exercises: https://github.com/juanMarinero/vim-visual-multi-exercises.
 
 
 ## vim-signature
@@ -1409,6 +1418,44 @@ This plugin does **not auto**matically align tables as you type. [VIM Table Mode
 
 
 **More demos** in its [README](https://github.com/junegunn/vim-easy-align#demo).
+
+
+### vim-visual-multi for align
+
+Basic usage. Align by `=` 3 lines: 
+ - Cursor at start 1st line
+ - `Ctrl-V`
+ - `jj`
+ - `\\c`
+ - `f=`
+ - `\\a` 
+
+Formats
+```
+foo= 1
+barbar= 2
+baz = 3
+```
+to
+```
+foo   = 1
+barbar= 2
+baz   = 3
+```
+
+Another align example in its [wiki](https://github.com/mg979/vim-visual-multi/wiki/Special-commands#align)
+(mappings in this GIF have changed, don't trust them)
+![Imgur](https://i.imgur.com/u5pPY5W.gif)
+
+Align **features**. Note here `leader` means `g:VM_leader` (default `\\`).
+- `leader-a` to align the rightmost column
+- `[count]leader-<` to align by char
+- `leader->` to align by regex
+
+Everyone exemplified in
+[juanMarinero/vim-visual-multi-exercises](https://github.com/juanMarinero/vim-visual-multi-exercises#leader-a-to-align-the-rightmost-column-countleader--to-align-by-char--leader--to-align-by-regex).
+
+*Aligning* is one of many capabilities of this plugin described [here](#vim-visual-multi).
 
 
 ## erd
