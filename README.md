@@ -141,6 +141,8 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
   * [denite.nvim](#denitenvim)
   * [FZF tags](#fzf-tags)
 * [vim-easymotion](#vim-easymotion)
+* [JSON](#json)
+  * [vim-json](#vim-json)
 * [CSV](#csv)
   * [csv.vim](#csvvim)
   * [Rainbow CSV](#rainbow-csv)
@@ -154,7 +156,6 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Recover.vim](#Recovervim)
 * [NERDCommenter](#nerdcommenter)
 * [VimDevIcons](#vimdevicons)
-* [vim-json](#vim-json)
 * [Tabs](#tabs)
   * [bufferline.nvim](#bufferlinenvim)
   * [barbar.nvim](#barbarnvim)
@@ -1357,6 +1358,20 @@ Multi-window inc-search
 If with `/`, `?` or `g/` you cannot paste using `C-V`, then check out [this](https://github.com/haya14busa/incsearch.vim/issues/158#issuecomment-2968041038).
 
 
+## JSON
+
+
+### vim-json
+
+https://github.com/elzr/vim-json
+
+Distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing.
+
+| conceallevel=0 | conceallevel=2 |
+| --- | --- |
+| ![Image](https://github.com/user-attachments/assets/8c212181-37cf-425c-8e62-0e4e31aba9ec) | ![Image](https://github.com/user-attachments/assets/a3349ef7-3ee3-4282-8a35-53c8f9d30a19) |
+
+
 ## CSV
 
 ### csv.vim
@@ -1524,17 +1539,6 @@ https://github.com/ryanoasis/vim-devicons/wiki/Installation
 See https://github.com/ryanoasis/vim-devicons/wiki/screenshots
 
 <img src="https://github.com/ryanoasis/vim-devicons/wiki/screenshots/v0.10.x/overall-screenshot.png" alt="vim-devicons overall screenshot" />
-
-
-## vim-json
-
-https://github.com/elzr/vim-json
-
-Distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing.
-
-| conceallevel=0 | conceallevel=2 |
-| --- | --- |
-| ![Image](https://github.com/user-attachments/assets/8c212181-37cf-425c-8e62-0e4e31aba9ec) | ![Image](https://github.com/user-attachments/assets/a3349ef7-3ee3-4282-8a35-53c8f9d30a19) |
 
 
 ## Tabs
