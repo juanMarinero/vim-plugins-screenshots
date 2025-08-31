@@ -143,6 +143,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [vim-easymotion](#vim-easymotion)
 * [JSON](#json)
   * [vim-json](#vim-json)
+  * [jsonpath.nvim](#jsonpathnvim)
 * [CSV](#csv)
   * [csv.vim](#csvvim)
   * [Rainbow CSV](#rainbow-csv)
@@ -1370,6 +1371,19 @@ Distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, qu
 | conceallevel=0 | conceallevel=2 |
 | --- | --- |
 | ![Image](https://github.com/user-attachments/assets/8c212181-37cf-425c-8e62-0e4e31aba9ec) | ![Image](https://github.com/user-attachments/assets/a3349ef7-3ee3-4282-8a35-53c8f9d30a19) |
+
+
+## jsonpath.nvim
+
+https://github.com/phelipetls/jsonpath.nvim
+
+JSON path shown in the winbar or sent to clipboard.
+
+A "JSON path" is a [jq](https://github.com/stedolan/jq)-like expression, such
+as `.` for root, `.[0]` for the first array item, `.name` for the property
+"name" of an object.
+
+[jsonpath-nvim-demo.webm](https://user-images.githubusercontent.com/39670535/194754315-57601183-fd1e-4633-982b-66c0c77fea29.webm)
 
 
 ## CSV
