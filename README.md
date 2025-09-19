@@ -163,6 +163,7 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [Registers](#registers)
   * [vim-peekaboo](#vim-peekaboo)
   * [vim-buffest](#vim-buffest)
+  * [NeoComposer.nvim](#neocomposernvim)
 * [VimWiki](#vimwiki)
 * [ToDo-s, calendars and time formats](#todo-s-calendars-and-time-formats)
   * [vim-simple-todo](#vim-simple-todo)
@@ -1593,6 +1594,24 @@ https://github.com/rbong/vim-buffest
 Easily edit vim registers/macros and lists as buffers.
 
 ![demo video](https://raw.githubusercontent.com/rbong/vim-buffest/refs/heads/master/media/demo.gif)
+
+
+### NeoComposer.nvim
+
+https://github.com/ecthelionvi/NeoComposer.nvim
+
+Simplifies macros, enhancing productivity with harmony.
+
+Use the `toggle_macro_menu` keybind `<m-q>` to open the interactive popup macro menu.
+
+![demo](https://raw.githubusercontent.com/ecthelionvi/Images/main/Popup.gif)
+
+As you cycle your available macros with the `cycle_next`: `<c-n>` and `cycle_prev`: `<c-p>` keybinds the queued macro
+will be previewed in the buffer.
+
+![demo](https://raw.githubusercontent.com/ecthelionvi/Images/main/Preview.gif)
+
+Edit macros with `:EditMacros` and remove them with `:ClearNeoComposer`.
 
 
 ## VimWiki
