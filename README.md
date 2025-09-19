@@ -147,6 +147,8 @@ This is not a detailed list of all Neo/Vim plugins; for that, visit
 * [CSV](#csv)
   * [csv.vim](#csvvim)
   * [Rainbow CSV](#rainbow-csv)
+* [API](#api)
+  * [rest.nvim](#restnvim)
 * [Align](#align)
   * [VIM Table Mode](#vim-table-mode)
   * [vim-easy-align](#vim-easy-align)
@@ -1401,6 +1403,16 @@ https://github.com/chrisbra/csv.vim
 https://github.com/mechatroner/rainbow_csv
 
 ![Rainbow CSV Screenshot](https://user-images.githubusercontent.com/5349737/190057249-8ec401f6-b76d-4420-a6af-053dd502f8a9.png)
+
+
+## API
+
+### rest.nvim
+https://github.com/rest-nvim/rest.nvim
+
+A very fast, powerful, extensible and asynchronous Neovim HTTP client.
+
+![Demo](https://github.com/user-attachments/assets/9a98c5c8-d26e-4d96-9eb7-fdc2a6f6685e)
 
 
 ## Align
